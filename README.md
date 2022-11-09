@@ -2,14 +2,11 @@
 
 Repository to facilitate the species list workshop.
 
-Here is a link to a [Word file containing the workshop proposal that was developed by Claude and Daniel](Atlantic Surveys Species Lists Workshop 2022.docx)
-
-
 ## Objectives
 
-- Validate a North Atlantic marine species name total checklist for ANDES
-- Enable regional survey-specific lists in ANDES
-- Improving the effective display of names and codes in ANDES 
+- Validate a North Atlantic marine species name total checklist for [Andes](https://github.com/dfo-gulf-science/andes/)
+- Enable regional survey-specific lists in Andes
+- Improving the effective display of names and codes in Andes
 
 
 ## Agenda
