@@ -2,7 +2,7 @@
 
 Repository to facilitate the species list workshop.
 
-[Word file with the workshop proposal that was developed by Claude and Daniel](./Atlantic Surveys Species Lists Workshop 2022.docx)
+[Word file with the workshop proposal that was developed by Claude and Daniel](Atlantic Surveys Species Lists Workshop 2022.docx)
 
 ## Objectives
 
