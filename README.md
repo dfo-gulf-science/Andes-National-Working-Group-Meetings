@@ -111,7 +111,7 @@ the start of the meeting to help guide the discussion.
 
 
 ## Tentative Agenda 
-***TO BE COMPLETED ONCE WE HAVE A COMPREHENSIVE LIST OF PRESENTATIONS / SESSIONS***
+***TO BE COMPLETED ONCE THERE IS A COMPREHENSIVE LIST OF PRESENTATIONS / SESSIONS***
 
 ### Tuesday, December 13 2022
 
