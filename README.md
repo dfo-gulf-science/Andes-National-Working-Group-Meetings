@@ -10,7 +10,7 @@ Repository to facilitate the species list workshop.
 
 
 ## Agenda
-### Thursday December 08 2022
+### Wednesday December 14 2022
 | Time |  |
 |  ---- |  - |
 | 9:00 | Introductions, round table |
@@ -29,7 +29,7 @@ Repository to facilitate the species list workshop.
 | 18:00 | drinks at a brewpub followed by dinner
 
 
-### Friday December 09 2022
+### Thursday December 15 2022
 | Time |  |
 |  ---- |  - |
 | 9:00 | recap of day 1 |
@@ -41,6 +41,15 @@ Repository to facilitate the species list workshop.
 | 14:45 | Break |
 | 15:00 |  |
 | 17:00 | Adjourn for the day |
+
+
+## Homework before the meeting
+
+To have a starting point for discussion, each region will be asked to provide the following:
+
+1) for their "flagship" survey (e.g. July for Maritimes, August for Quebec, September for Gulf), a table showing the number of times per year that each species code has been used in the catch table.
+2) for those species codes identified in 1), detailed entries from regional species list
+3) for those species codes identified in 1), do they have an AphiaID?
 
 
 ## Presentations
