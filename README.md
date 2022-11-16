@@ -81,8 +81,10 @@ Repository to facilitate the species list workshop.
 
 ## Homework before the meeting
 
-1. Complete following template and using the data from your "flagship" survey. Please submit this table by Friday, December 9, 2022. 
-The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository.
+1. Complete [following template](species_summary_template.csv) and using the data from your "flagship" survey. Please submit this table by Friday, December 9, 2022. 
+The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository. The column called 
+`count_of_occurrences_in_db` should contain a total count of catches for the given species in your regional database. In other words, "considering the
+entirety of your regional dataset, in how many fishing sets has this species been recorded?"  
 2. A list of species related problems your region is struggling with and that you are hoping to resolve.
 
 
