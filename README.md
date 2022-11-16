@@ -100,3 +100,5 @@ Repository to facilitate the species list workshop.
 
 - Provide a Best Practices summary for survey users of ANDES
 
+- OBIS version of the data
+- DATRAS version of the data
