@@ -88,10 +88,11 @@ Repository to facilitate the species list workshop.
 The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository. The column called 
 `count_of_occurrences_in_db` should contain a total count of catches for the given species in your regional database. In other words, "considering the
 entirety of your regional dataset, in how many fishing sets has this species been recorded?"  
-2. A list of species related problems your region is struggling with and that you are hoping to resolve.
+2. Please prepare a list of regional problems and concerns relating to species list and the implementations thereof. These items will be compiled at 
+the start of the meeting to help guide the discussion. 
 
 
-## Presentations / Sessions
+## Suggested Presentations / Sessions
 
 | Title                                                                                          | Presenter / Moderator | Duration |
 |------------------------------------------------------------------------------------------------|-----------------------|----------|
