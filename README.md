@@ -8,6 +8,32 @@ Repository to facilitate the species list workshop.
 - Decide on whether regional specific lists (i.e., vernaculars) should be enabled in Andes
 - Improving the effective display of names and codes in Andes
 
+
+## Homework before the meeting
+
+1. Complete [following template](species_summary_template.csv) and using the data from your "flagship" survey. Please submit this table by Friday, December 9, 2022. 
+The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository. The column called 
+`count_of_occurrences_in_db` should contain a total count of catches for the given species in your regional database. In other words, "considering the
+entirety of your regional dataset, in how many fishing sets has this species been recorded?"  
+2. Please prepare a list of regional problems and concerns relating to species list and the implementations thereof. These items will be compiled at 
+the start of the meeting to help guide the discussion. 
+
+
+## Suggested Presentations / Sessions
+
+| Title                                                                                          | Presenter / Moderator | Duration |
+|------------------------------------------------------------------------------------------------|-----------------------|----------|
+| Presentation of regional species-related problems from the homework assignment                 | Roundtable discussion | 90 min   |
+| Taxonomic names – understanding sources and authorities                                        | C. Nozeres            | ??       |
+| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard             | ??       |
+| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???    | 20 min   |
+|                                                                                                |                       |          |
+|                                                                                                |                       |          |
+|                                                                                                |                       |          |
+
+
+
+
 ## Topics for discussion
 
 - first starting point: use of the principal aquatic species authority, World Register of Marine Species (WoRMS) - and knowing when to 'diverge'
@@ -81,29 +107,6 @@ Repository to facilitate the species list workshop.
 - Identification Guides:
   - The importance of keeping these up to date and in sync
   - The implementation in Andes
-
-## Homework before the meeting
-
-1. Complete [following template](species_summary_template.csv) and using the data from your "flagship" survey. Please submit this table by Friday, December 9, 2022. 
-The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository. The column called 
-`count_of_occurrences_in_db` should contain a total count of catches for the given species in your regional database. In other words, "considering the
-entirety of your regional dataset, in how many fishing sets has this species been recorded?"  
-2. Please prepare a list of regional problems and concerns relating to species list and the implementations thereof. These items will be compiled at 
-the start of the meeting to help guide the discussion. 
-
-
-## Suggested Presentations / Sessions
-
-| Title                                                                                          | Presenter / Moderator | Duration |
-|------------------------------------------------------------------------------------------------|-----------------------|----------|
-| Presentation of regional species-related problems from homework assignment #2 (roundtable)     | Roundtable discussion | 1  hour  |
-| Taxonomic names – understanding sources and authorities                                        | C. Nozeres            | ??       |
-| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard             | ??       |
-| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???    | 20 min   |
-|                                                                                                |                       |          |
-|                                                                                                |                       |          |
-|                                                                                                |                       |          |
-
 
 
 
