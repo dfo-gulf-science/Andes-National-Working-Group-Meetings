@@ -78,6 +78,9 @@ Repository to facilitate the species list workshop.
 
 - Preparation for a follow-up workshop on survey data validation and publication (OBIS, DATRAS).
 
+- Identification Guides:
+  - The importance of keeping these up to date and in sync
+  - The implementation in Andes
 
 ## Homework before the meeting
 
@@ -90,11 +93,17 @@ entirety of your regional dataset, in how many fishing sets has this species bee
 
 ## Presentations / Sessions
 
-- Presentation of regional species-related problems from homework assignment #2 (roundtable) - 1 hour  
-- Taxonomic names – understanding sources and authorities (Nozeres) - XX minutes
-- Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them (Ricard) - XX minutes
-- Arugments for the use of regional species lists in Andes (????) - 10 minutes
-- Arugments against the use of regional species lists in Andes (Fishman) - 10 minutes
+| Title                                                                                          | Presenter / Moderator | Duration |
+|------------------------------------------------------------------------------------------------|-----------------------|----------|
+| Presentation of regional species-related problems from homework assignment #2 (roundtable)     | Roundtable discussion | 1  hour  |
+| Taxonomic names – understanding sources and authorities                                        | C. Nozeres            | ??       |
+| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard             | ??       |
+| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???    | 20 min   |
+|                                                                                                |                       |          |
+|                                                                                                |                       |          |
+|                                                                                                |                       |          |
+
+
 
 
 ## Tentative Agenda
@@ -133,7 +142,3 @@ entirety of your regional dataset, in how many fishing sets has this species bee
 
 
 
-Scratch:
-- Problem formulation
-- identification guides
-  - the importance of those identification guides being up to date in Andes and being updated as needed
