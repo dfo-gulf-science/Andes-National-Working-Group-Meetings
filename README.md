@@ -5,56 +5,8 @@ Repository to facilitate the species list workshop.
 ## Objectives
 
 - Validate a North Atlantic marine species name total checklist for [Andes](https://github.com/dfo-gulf-science/andes/)
-- Enable regional survey-specific lists in Andes
+- Decide on whether regional specific lists (i.e., vernaculars) should be enabled in Andes
 - Improving the effective display of names and codes in Andes
-
-
-## Agenda
-### Wednesday December 14 2022
-| Time |  |
-|  ---- |  - |
-| 9:00 | Introductions, round table |
-| 9:15 | Motivation for workshop (Nozeres and Ricard) |
-| 9:30 | Taxonomic names – understanding sources and authorities |
-| 10:15 | |
-| 10:30 | Break |
-| 10:45 | Non-taxonomic terms – consolidating use across regions |
-| 12:00 | Lunch |
-| 13:15 | Presenting the merged list for Atlantic, with subsets by region |
-| 14:45 | Break |
-| 15:00 | Maintaining the Atlantic list – curation of synonyms and updates |
-| 16:30 | Overview of the day and plan for tomorrow |
-| 17:00 | Adjourn for the day |
-
-| 18:00 | drinks at a brewpub followed by dinner
-
-
-### Thursday December 15 2022
-| Time |  |
-|  ---- |  - |
-| 9:00 | recap of day 1 |
-| 9:15 | Regional specific name lists |
-| 10:30 | Break |
-| 10:45 | |
-| 12:00 | Lunch |
-| 13:15 |  |
-| 14:45 | Break |
-| 15:00 |  |
-| 17:00 | Adjourn for the day |
-
-
-## Homework before the meeting
-
-To have a starting point for discussion, each region will be asked to provide the following:
-
-1) for their "flagship" survey (e.g. July for Maritimes, August for Quebec, September for Gulf), a table showing the number of times per year that each species code has been used in the catch table.
-2) for those species codes identified in 1), detailed entries from regional species list
-3) for those species codes identified in 1), do they have an AphiaID?
-
-
-## Presentations
-
-
 
 ## Topics for discussion
 
@@ -126,3 +78,60 @@ To have a starting point for discussion, each region will be asked to provide th
 
 - Preparation for a follow-up workshop on survey data validation and publication (OBIS, DATRAS).
 
+
+## Homework before the meeting
+
+1. Complete following template and using the data from your "flagship" survey. Please submit this table by Friday, December 9, 2022. 
+The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository.
+2. A list of species related problems your region is struggling with and that you are hoping to resolve.
+
+
+## Presentations / Sessions
+
+- Presentation of regional species-related problems from homework assignment #2 (roundtable) - 1 hour  
+- Taxonomic names – understanding sources and authorities (Nozeres) - XX minutes
+- Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them (Ricard) - XX minutes
+- Arugments for the use of regional species lists in Andes (????) - 10 minutes
+- Arugments against the use of regional species lists in Andes (Fishman) - 10 minutes
+
+
+## Tentative Agenda
+### Tuesday, December 13 2022
+
+
+| Time |                                                                  |
+|  ---- |------------------------------------------------------------------|
+| 9:00 | Introductions, round table                                       |
+| 9:15 | Motivation for workshop (Nozeres and Ricard)                     |
+| 9:30 | Taxonomic names – understanding sources and authorities          |
+| 10:15 |                                                                  |
+| 10:30 | Break                                                            |
+| 10:45 | Non-taxonomic terms – consolidating use across regions           |
+| 12:00 | Lunch                                                            |
+| 13:15 | Presenting the merged list for Atlantic, with subsets by region  |
+| 14:45 | Break                                                            |
+| 15:00 | Maintaining the Atlantic list – curation of synonyms and updates |
+| 16:30 | Overview of the day and plan for tomorrow                        |
+| 17:00 | Adjourn for the day                                              |
+| 18:00 | drinks at a brewpub followed by dinner
+
+
+### Wednesday, December 14 2022
+| Time |                              |
+|  ---- |------------------------------|
+| 9:00 | recap of day 1               |
+| 9:15 | Regional specific name lists |
+| 10:30 | Break                        |
+| 10:45 |                              |
+| 12:00 | Lunch                        |
+| 13:15 |                              |
+| 14:45 | Break                        |
+| 15:00 |                              |
+| 17:00 | Adjourn for the day          |
+
+
+
+Scratch:
+- Problem formulation
+- identification guides
+  - the importance of those identification guides being up to date in Andes and being updated as needed
