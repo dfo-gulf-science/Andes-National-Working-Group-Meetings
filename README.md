@@ -108,6 +108,9 @@ the start of the meeting to help guide the discussion.
 
 - Preparation for a follow-up workshop on survey data validation and publication (OBIS, DATRAS).
 
+- OBIS version of the data
+- DATRAS version of the data
+=======
 - Identification Guides:
   - The importance of keeping these up to date and in sync
   - The implementation in Andes
@@ -151,4 +154,20 @@ the start of the meeting to help guide the discussion.
 | 17:00 | Adjourn for the day          |
 
 
+## List of confirmed participants
 
+| Name | Region | In person or virtual? |
+|---|---|---|
+
+| Sheila Atchison | Central and Arctic | Virtual |
+| David Fishman | Gulf | In person |
+| Daniel Ricard | Gulf | In person |
+| François-Étienne Sylvain | Gulf | In person |
+| Pablo Vergara | Gulf | In person |
+| Ryan Martin | Maritimes (SABS) | In person |
+| Mike McMahon | Maritimes (BIO) | In person |
+| Brian Boivin | Québec | In person |
+| Laurie Isabel | Québec | In person |
+| David Sean | Québec | In person |
+| Jason Ladell  | National Captial Region | Virtual |
+| Fran Mowbray  | Newfoundland and Labrador | Virtual |
