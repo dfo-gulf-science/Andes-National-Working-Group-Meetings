@@ -157,8 +157,7 @@ the start of the meeting to help guide the discussion.
 ## List of confirmed participants
 
 | Name | Region | In person or virtual? |
-|---|---|---|
-
+|----|------|---------|
 | Sheila Atchison | Central and Arctic | Virtual |
 | David Fishman | Gulf | In person |
 | Daniel Ricard | Gulf | In person |
@@ -171,3 +170,4 @@ the start of the meeting to help guide the discussion.
 | David Sean | Québec | In person |
 | Jason Ladell  | National Captial Region | Virtual |
 | Fran Mowbray  | Newfoundland and Labrador | Virtual |
+
