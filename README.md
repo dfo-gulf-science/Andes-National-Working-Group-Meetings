@@ -11,10 +11,12 @@ Repository to facilitate the species list workshop.
 
 ## Homework before the meeting
 
-1. Complete [following template](species_summary_template.csv) and using the data from your "flagship" survey. Please submit this table by Friday, December 9, 2022. 
+1. Complete [following template](species_summary_template.csv) and using the data from your "flagship" survey
+(e.g. July for Maritimes, August for Quebec, September for Gulf). Please submit this table by Friday, December 9, 2022. 
 The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository. The column called 
 `count_of_occurrences_in_db` should contain a total count of catches for the given species in your regional database. In other words, "considering the
-entirety of your regional dataset, in how many fishing sets has this species been recorded?"  
+entirety of your regional dataset, in how many fishing sets has this species been recorded?" **Please limit the lists to only species for which there are 
+observations in the past 20 years.**   
 2. Please prepare a list of regional problems and concerns relating to species list and the implementations thereof. These items will be compiled at 
 the start of the meeting to help guide the discussion. 
 
@@ -71,6 +73,8 @@ the start of the meeting to help guide the discussion.
 - Common name(s) to use, what if there are a number of options (regional vs 'official' names)? how to deal with multiple languages (display feature in Andes)? Efforts are underway in Canada (General Status of Species TermiumPlus), but are inadequate for marine species. DFO could contribute and resolve many.
 
 - demo of worms R package to extract taxonomic hierarchy from WORMS. Maintenance of hierarchy could be with periodic queries to WoRMS, not done manually.
+
+- Should Andes contain a list of _all_ species, or only those for which there are records of observation in our collective regions?
 
 
 ## Expected outcomes
