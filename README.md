@@ -108,7 +108,6 @@ the start of the meeting to help guide the discussion.
 
 - Preparation for a follow-up workshop on survey data validation and publication (OBIS, DATRAS).
 
-<<<<<<< HEAD
 - OBIS version of the data
 - DATRAS version of the data
 =======
@@ -156,4 +155,3 @@ the start of the meeting to help guide the discussion.
 
 
 
->>>>>>> 21456c0b7d647281b9c059b365c74750a19e22cd
