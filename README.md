@@ -5,54 +5,34 @@ Repository to facilitate the species list workshop.
 ## Objectives
 
 - Validate a North Atlantic marine species name total checklist for [Andes](https://github.com/dfo-gulf-science/andes/)
-- Enable regional survey-specific lists in Andes
+- Decide on whether regional specific lists (i.e., vernaculars) should be enabled in Andes
 - Improving the effective display of names and codes in Andes
-
-
-## Agenda
-### Wednesday December 14 2022
-| Time |  |
-|  ---- |  - |
-| 9:00 | Introductions, round table |
-| 9:15 | Motivation for workshop (Nozeres and Ricard) |
-| 9:30 | Taxonomic names – understanding sources and authorities |
-| 10:15 | |
-| 10:30 | Break |
-| 10:45 | Non-taxonomic terms – consolidating use across regions |
-| 12:00 | Lunch |
-| 13:15 | Presenting the merged list for Atlantic, with subsets by region |
-| 14:45 | Break |
-| 15:00 | Maintaining the Atlantic list – curation of synonyms and updates |
-| 16:30 | Overview of the day and plan for tomorrow |
-| 17:00 | Adjourn for the day |
-
-| 18:00 | drinks at a brewpub followed by dinner
-
-
-### Thursday December 15 2022
-| Time |  |
-|  ---- |  - |
-| 9:00 | recap of day 1 |
-| 9:15 | Regional specific name lists |
-| 10:30 | Break |
-| 10:45 | |
-| 12:00 | Lunch |
-| 13:15 |  |
-| 14:45 | Break |
-| 15:00 |  |
-| 17:00 | Adjourn for the day |
 
 
 ## Homework before the meeting
 
-To have a starting point for discussion, each region will be asked to provide the following:
+1. Complete [following template](species_summary_template.csv) and using the data from your "flagship" survey
+(e.g. July for Maritimes, August for Quebec, September for Gulf). Please submit this table by Friday, December 9, 2022. 
+The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository. The column called 
+`count_of_occurrences_in_db` should contain a total count of catches for the given species in your regional database. In other words, "considering the
+entirety of your regional dataset, in how many fishing sets has this species been recorded?" **Please limit the lists to only species for which there are 
+observations in the past 20 years.**   
+2. Please prepare a list of regional problems and concerns relating to species list and the implementations thereof. These items will be compiled at 
+the start of the meeting to help guide the discussion. 
 
-1) for their "flagship" survey (e.g. July for Maritimes, August for Quebec, September for Gulf), a table showing the number of times per year that each species code has been used in the catch table.
-2) for those species codes identified in 1), detailed entries from regional species list
-3) for those species codes identified in 1), do they have an AphiaID?
 
+## Suggested Presentations / Sessions
 
-## Presentations
+| Title                                                                                          | Presenter / Moderator | Duration |
+|------------------------------------------------------------------------------------------------|-----------------------|----------|
+| Presentation of regional species-related problems from the homework assignment                 | Roundtable discussion | 90 min   |
+| Taxonomic names – understanding sources and authorities                                        | C. Nozeres            | ??       |
+| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard             | ??       |
+| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???    | 20 min   |
+|                                                                                                |                       |          |
+|                                                                                                |                       |          |
+|                                                                                                |                       |          |
+
 
 
 
@@ -94,6 +74,8 @@ To have a starting point for discussion, each region will be asked to provide th
 
 - demo of worms R package to extract taxonomic hierarchy from WORMS. Maintenance of hierarchy could be with periodic queries to WoRMS, not done manually.
 
+- Should Andes contain a list of _all_ species, or only those for which there are records of observation in our collective regions?
+
 
 ## Expected outcomes
 
@@ -126,5 +108,52 @@ To have a starting point for discussion, each region will be asked to provide th
 
 - Preparation for a follow-up workshop on survey data validation and publication (OBIS, DATRAS).
 
+<<<<<<< HEAD
 - OBIS version of the data
 - DATRAS version of the data
+=======
+- Identification Guides:
+  - The importance of keeping these up to date and in sync
+  - The implementation in Andes
+
+
+
+## Tentative Agenda 
+***TO BE COMPLETED ONCE THERE IS A COMPREHENSIVE LIST OF PRESENTATIONS / SESSIONS***
+
+### Tuesday, December 13 2022
+
+
+| Time |                                                                  |
+|  ---- |------------------------------------------------------------------|
+| 9:00 | Introductions, round table                                       |
+| 9:15 | Motivation for workshop (Nozeres and Ricard)                     |
+| 9:30 | Taxonomic names – understanding sources and authorities          |
+| 10:15 |                                                                  |
+| 10:30 | Break                                                            |
+| 10:45 | Non-taxonomic terms – consolidating use across regions           |
+| 12:00 | Lunch                                                            |
+| 13:15 | Presenting the merged list for Atlantic, with subsets by region  |
+| 14:45 | Break                                                            |
+| 15:00 | Maintaining the Atlantic list – curation of synonyms and updates |
+| 16:30 | Overview of the day and plan for tomorrow                        |
+| 17:00 | Adjourn for the day                                              |
+| 18:00 | drinks at a brewpub followed by dinner
+
+
+### Wednesday, December 14 2022
+| Time |                              |
+|  ---- |------------------------------|
+| 9:00 | recap of day 1               |
+| 9:15 | Regional specific name lists |
+| 10:30 | Break                        |
+| 10:45 |                              |
+| 12:00 | Lunch                        |
+| 13:15 |                              |
+| 14:45 | Break                        |
+| 15:00 |                              |
+| 17:00 | Adjourn for the day          |
+
+
+
+>>>>>>> 21456c0b7d647281b9c059b365c74750a19e22cd
