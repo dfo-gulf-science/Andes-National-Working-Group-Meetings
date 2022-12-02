@@ -165,6 +165,7 @@ the start of the meeting to help guide the discussion.
 | Pablo Vergara | Gulf | In person |
 | Ryan Martin | Maritimes (SABS) | In person |
 | Mike McMahon | Maritimes (BIO) | In person |
+| Claude Nozères | Québec | In person |
 | Brian Boivin | Québec | In person |
 | Laurie Isabel | Québec | In person |
 | David Sean | Québec | In person |
