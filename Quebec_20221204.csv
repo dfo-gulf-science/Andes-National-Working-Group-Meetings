@@ -1,0 +1,552 @@
+﻿regional_code,common_name_en,common_name_fr,scientific_name,aphia_ID,count_of_occurrences_in_db
+1,Vertebrates (Vertebrata),Vertébrés (Vertebrata),Vertebrata,146419,10
+13,mud hagfish,myxine de vase,Myxine limosa,271309,1794
+15,Sea Lamprey,Lamproie marine,Petromyzon marinus,101174,5
+20,Greenland Shark,Laimargue atlantique,Somniosus microcephalus,105919,2
+24,Spiny Dogfish,Aiguillat commun,Squalus acanthias,105923,13
+27,Black Dogfish,Aiguillat noir,Centroscyllium fabricii,105906,421
+48,Basking shark,requin pélerin,Cetorhinus maximus,,3
+80,Skate (Rajiformes),Raie (Rajiformes),Rajiformes,10216,10
+88,Skate (Rajidae),Raie (Rajidae),Rajidae,105711,1
+90,Thorny Skate,Raie épineuse,Amblyraja radiata,105865,2579
+91,Smooth Skate,Raie lisse (à queue de velours),Malacoraja senta,158554,2032
+94,Round Skate,Raie ronde,Rajella fyllae,105894,19
+100,Winter Skate,Raie tachetée,Leucoraja ocellata,158553,4
+102,Spinytail Skate,Raie à queue épineuse,Bathyraja spinicauda,105868,56
+150,Atlantic Herring,Hareng atlantique,Clupea harengus,126417,1747
+152,American Shad,Alose savoureuse,Alosa sapidissima,158670,2
+168,Bluntsnout Smoothhead,Gymnaste atlantique,Xenodermichthys copei,126714,5
+187,Capelin (M. villosus),Capelan (M. villosus),Mallotus villosus,126735,1892
+188,Rainbow Smelt,Éperlan arc-en-ciel,Osmerus mordax,126737,2
+193,Atlantic Argentine,Grande argentine,Argentina silus,126715,165
+202,Goitre Blacksmelt,Garcette-goitre,Bathylagus euryops,126719,1
+205,Bristlemouths  (Gonostomatidae),Cyclothones (Gonostomatidae),Gonostomatidae,125601,37
+208,Veiled Anglemouth,Cyclothone à petites dents,Cyclothone microdon,127286,58
+214,Mueller's Pearlside,Margerite perlée,Maurolicus muelleri,127312,2
+220,Hatchetfishes (Sternoptychidae),Haches (Sternoptychidae),Sternoptychidae,125603,4
+222,Slope Hachetfish (P. clarus),Hache (P. clarus),Polyipnus clarus,158840,30
+225,Greater Silver Hatchetfish,Grande hache d'argent,Argyropelecus gigas,127308,5
+227,Sloane's Viperfish,Chauliode très lumineux,Chauliodus sloani,127338,9
+230,Boa Dragonfish,Dragon-boa,Stomias boa boa,234601,7
+234,Straightline Dragonfish,Dragon-saumon à grands yeux,Borostomias antarcticus,127334,1
+244,Ligthfishes (P. thaeocoryla),Poisson lumineux (P. thaeocoryla),Polymetme thaeocoryla,127301,5
+271,Deepwater Fishes,Poissons des profondeurs,Myctophiformes,10309,17
+272,Lanternfishes (Myctophidae),Poissons-lanterne (Myctophidae),Myctophidae,125498,296
+273,Common Lanternfish (Notoscopelus sp.),Lanterne (Notoscopelus sp.),Notoscopelus sp.,125831,9
+275,Kroyer's Lanternfish,Lanterne-voilière nordique,Notoscopelus kroyeri,272728,63
+278,Glowingfish,Lanterne à grandes écailles,Neoscopelus macrolepidotus,126634,28
+281,Spotted Lanternfish,Lanterne ponctuée,Myctophum punctatum,126627,3
+285,Mirror Lanternfish,Lanterne-miroir,Lampadena speculigera,126608,7
+290,Glacier Lanternfish,Lanterne glacière,Benthosema glaciale,126580,41
+304,Lightless Loosejaw,Drague sans lampe,Malacosteus niger,127358,2
+320,White Barracudina,Lussion blanc,Arctozenus risso,126352,1749
+368,Atlantic Snipe Eel,Avocette ruban,Nemichthys scolopaceus,126306,19
+369,Stout Sawpalate,Serrivomer trapu,Serrivomer beanii,126319,6
+373,Northern Cutthroat Eel,Anguille égorgée bécuée,Synaphobranchus kaupii,126328,15
+398,Atlantic Saury (S. saurus),Balaou (S. saurus),Scomberesox saurus saurus,236461,27
+422,Sticklebacks (Gasterosteidae),Épinoches (Gasterosteidae),Gasterosteidae,125476,1
+426,Threespine Stickleback,Épinoche à trois épines,Gasterosteus aculeatus,126505,103
+430,Codfish (Gadiformes),Gadoide (Gadiformes),Gadiformes,10313,1
+436,Codfishes (Gadidae),Gadidés  (Gadidae),Gadidae,125469,6
+437,Atlantic or Greenland cod (Gadus sp.),Morue ou ogac (Gadus sp.),Gadus sp.,125732,1
+438,Atlantic Cod (G. morhua),Morue franche (G. morhua),Gadus morhua,126436,1828
+439,Greenland Cod (G. ogac),"Ogac, morue ogac (G. ogac)",Gadus ogac,254538,118
+440,Blue Whiting,Poutassou,Micromesistius poutassou,126439,1
+441,Haddock,Aiglefin,Melanogrammus aeglefinus,126437,47
+442,Atlantic Tomcod,Poulamon atlantique,Microgadus tomcod,158928,1
+443,Pollock,Goberge,Pollachius virens,126441,26
+444,Longfin Hake,Merluche à longues nageoires,Phycis chesteri,158988,696
+447,White Hake,Merluche blanche,Urophycis tenuis,126504,1354
+449,Silver Hake,Merlu argenté,Merluccius bilinearis,158962,855
+451,Arctic Cod,Saïda franc (Morue arctique),Boreogadus saida,126433,399
+453,Threebeard Rocklings  (Gaidropsarus sp.),Mustèles (Gaidropsarus sp.),Gaidropsarus sp.,125743,14
+454,Threebeard Rockling,Mustèle arctique à trois barbillons,Gaidropsarus ensis,126453,8
+455,"Silver Rockling, Arctic Threebearded Rockling",Mustèle argentée,Gaidropsarus argentatus,126451,13
+461,Fourbeard Rockling,Motelle à quatre barbillons,Enchelyopus cimbrius,126450,2083
+471,Grenadier (Macrouridae),Grenadier (Macrouridae),Macrouridae,125471,9
+478,Common Grenadier,Grenadier du grand Banc,Nezumia bairdii,183289,1715
+484,American Straptail Grenadier,Queue-de-rat d'Amérique,Malacocephalus occidentalis,158741,2
+527,Rosy Soldierfish,Poisson-montre,Hoplostethus mediterraneus mediterraneus,159409,3
+572,Atlantic Mackerel (S. scombrus),Maquereau bleu (S. scombrus),Scomber scombrus,127023,322
+614,Greateyes (Epigonus sp.),Grands yeux (Epigonus sp.),Epigonus sp.,125967,1
+618,Big Eye,Cardinal (E. pandionis),Epigonus pandionis,159706,9
+694,Northern Sand Lance,Lançon du nord,Ammodytes dubius,151520,2
+695,American Sand Lance,Lançon d'Amérique,Ammodytes americanus,159587,7
+696,Sand Lances (Ammodytes sp.),Lançons (Ammodytes sp.),Ammodytes sp.,125909,295
+699,Northern Wolffish,Loup à tÍte large,Anarhichas denticulatus,126757,1
+700,Atlantic Wolffish,Loup atlantique,Anarhichas lupus,126758,644
+701,Spotted Wolffish,Loup tacheté,Anarhichas minor,126759,159
+702,Wolffishes (Anarhichas sp.),Loups (Anarhichas sp.),Anarhichas sp.,125912,1
+705,Rock Gunnel,Sigouine de roche,Pholis gunnellus,126996,1
+709,"Shannies, Blennies  (Stichaeidae)","Lompénies, Stichées, Ulvaires (Stichaeidae)",Stichaeidae,125566,1
+710,Arctic Shanny,Stichée arctique,Stichaeus punctatus,159819,25
+711,Fourline Snakeblenny,Quatre-lignes atlantique,Eumesogrammus praecisus,159817,509
+715,Slender Eelblenny,Lompénie élancée,Lumpenus fabricii,127073,3
+716,Snakeblenny,Lompénie-serpent,Lumpenus lampretaeformis,154675,612
+717,Daubed Shanny,Lompénie tachetée,Leptoclinus maculatus,127072,931
+718,Stout Eelblenny,Lompénie naine,Anisarchus medius,127070,31
+721,Wrymouth,Terrassier tacheté,Cryptacanthodes maculatus,159675,145
+722,Aurora pout,unernak aurore,Gymnelus retrodorsalis,,2
+725,"Eelpouts, Pouts, Wolf Eels (Zoarcidae)","Lycodes, Loquettes, Molasses (Zoarcidae)",Zoarcidae,125575,5
+726,Eelpouts (Lycodes sp.),Lycodes (Lycodes sp.),Lycodes sp.,126104,54
+727,Esmark's Eelpout,Lycode d'Esmark,Lycodes esmarkii,127103,83
+728,Newfoundland Eelpout,Lycode du Labrador,Lycodes lavalaei,127107,482
+729,Arctic Eelpout,Lycode arctique,Lycodes reticulatus,127112,1
+730,Vahl's Eelpout,Lycode à carreaux,Lycodes vahlii,127118,798
+733,Canadian Eelpout (L. polaris),Lycode polaire (L. polaris),Lycodes polaris,127111,14
+734,Atlantic Eelpout,Lycode atlantique,Lycodes terraenovae,127117,78
+745,Atlantic Soft Pout,Molasse atlantique,Melanostigma atlanticum,127120,982
+746,Fish Doctor,Unernak caméléon,Gymnelus viridis,127096,125
+747,Wolf Eels (Lycenchelys sp.),Lycodes (Lycenchelys sp.),Lycenchelys sp.,126103,3
+750,Common Wolf Eel,Lycode commune,Lycenchelys paxillus,159257,43
+752,Wolf Eelpout,Lycode à tÍte longue,Lycenchelys verrillii,159258,171
+783,Butterfish,Stromatée à fossette,Peprilus triacanthus,159828,1
+792,Rockfishes (Sebastes sp.),Sébastes (Sebastes sp.),Sebastes sp.,126175,3957
+793,Golden Redfish,Sébaste orangé,Sebastes norvegicus,151324,7
+797,Blackbelly Rosefish,Chèvre impériale,Helicolenus dactylopterus,127251,11
+808,Sculpins (Cottidae),Chaboisseaux (Cottidae),Cottidae,125589,8
+809,Sea Sculpin,Hémitriptère atlantique,Hemitripterus americanus,159518,72
+810,Hookear Sculpins (Artediellus sp.),Hameçons (Artediellus sp.),Artediellus sp.,126147,110
+811,Atlantic Hookear Sculpin,Hameçon atlantique,Artediellus atlanticus,127193,731
+812,Arctic Hookear Sculpin,Hameçon neigeux,Artediellus uncinatus,127195,269
+813,Mailed Sculpins,Faux-trigles,Triglops sp.,126154,13
+814,Moustache Sculpin,Faux-trigle armé,Triglops murrayi,127205,949
+815,Bigeye Sculpin,Faux-trigle à grands yeux,Triglops nybelini,127206,15
+816,Ribbed Sculpin,Faux-trigle bardé,Triglops pingelii,127207,1
+817,Sculpins (Myoxocephalus sp.),Chaboisseaux (Myoxocephalus sp.),Myoxocephalus sp.,126152,7
+818,"Little Sculpin, Grubby",Chaboisseau bronzé,Myoxocephalus aenaeus,159519,3
+819,Shorthorn Sculpin,Chaboisseau à épines courtes,Myoxocephalus scorpius,127203,563
+820,"Longhorn Sculpin, Gray Sculpin",Chaboisseau à dix-huit-épines,Myoxocephalus octodecemspinosus,159520,15
+823,Arctic Staghorn Sculpin,Tricorne arctique,Gymnocanthus tricuspis,127198,532
+829,Polar Sculpin,Cotte polaire,Cottunculus microps,127235,24
+830,Spatulate and Twohorn Sculpin (Icelus sp.),Icèles (Icelus sp.),Icelus sp.,126150,26
+831,Twohorn Sculpin,Icèle à deux cornes,Icelus bicornis,127199,101
+832,Spatulate Sculpin,Icèle spatulée,Icelus spatula,127200,177
+836,Atlantic Poacher,Agone atlantique,Leptagonus decagonus,127191,478
+837,Arctic Alligatorfish,Poisson-alligator arctique,Aspidophoroides olrikii,309268,54
+838,Alligatorfish,Poisson-alligator atlantique,Aspidophoroides monopterygius,159459,811
+844,Atlantic Spiny Lumpsucker (E. spinosus),Petite poule de mer atlantique (E. spinosus),Eumicrotremus spinosus,127217,50
+845,Atlantic Spiny Lumpsucker (E. variabilis),Petite poule de mer atlantique (E. variabilis),Eumicrotremus spinosus variabilis,1552956,4
+847,Newfoundland Spiny Lumpsucker,Petite poule Terre-Neuve,Eumicrotremus terraenovae,159521,474
+849,Lumpfish,Grosse poule de mer,Cyclopterus lumpus,127214,540
+853,Snailfishes (Liparidae),Limaces (Liparidae),Liparidae,234519,6
+854,Snailfishes (Paraliparis sp.),Limaces (Paraliparis sp.),Paraliparis sp.,126161,5
+856,"Blacksnout Seasnail, Blacksnout Snailfish",Limace à museau noir,Paraliparis copei,159530,89
+857,Snailfishes (Liparis sp.),Limaces (Liparis sp.),Liparis sp.,126160,9
+859,Gelatinous seasnail,limace gélatineuse,Liparis fabricii,,1
+862,Variegated Snailfish,Limace marbrée,Liparis gibbus,159526,11
+865,Sea Tadpole,Petite limace de mer,Careproctus reinhardti,127212,174
+867,Gulf Snailfish,Limace de Cohen,Liparis coheni,159525,1
+868,Nebulous Snailfish,Limace nébuleuse,Liparis bathyarcticus,867958,232
+874,Lowfin Snailfish,Limace ardente,Paraliparis calidus,159529,114
+887,"Flounders, Halibuts and Plaices","Flétans, limandes et plies",Pleuronectidae,125579,2
+889,American Plaice,Plie canadienne,Hippoglossoides platessoides,127137,2706
+890,Witch Flounder,Plie grise,Glyptocephalus cynoglossus,127136,2494
+891,Yellowtail Flounder,Limande à queue jaune,Limanda ferruginea,158879,69
+892,"Greeenland Halibut, Turbot","Flétan du Groenland, turbot",Reinhardtius hippoglossoides,127144,2716
+893,Atlantic Halibut,Flétan atlantique,Hippoglossus hippoglossus,127138,832
+895,Winter Flounder,Plie rouge,Pseudopleuronectes americanus,158885,2
+966,"Monkfish, Goosefish",Baudroie d'Amérique,Lophius americanus,159184,176
+980,Seadevils (Ceratiidae),Poissons-pÍcheur (Cératidé),Ceratiidae,125487,1
+982,"Triplewart Seadevil, Warted Seadevil","Petit pÍcheur abyssal, PÍcheur à trèfle",Cryptopsaras couesii,126538,7
+984,,PÍcheur rÍveur,Oneirodidae,125496,1
+1100,Invertebrates,Invertébrés,Invertébrés,,63
+1101,Sponges (Porifera),Éponges (Porifera),Porifera,558,1733
+1107,Sponge (P. hemisphaerica),Éponge (P. hemisphaerica),Polymastia hemisphaerica,134200,90
+1108,Sponge (T. semisuberites),Éponge (T. semisuberites),Tentorium semisuberites,134224,83
+1109,Sponge (Polymastia sp.),Éponge (Polymastia sp.),Polymastia sp.,132046,153
+1112,Sponge ( S. borealis),Éponge (S. borealis),Stylocordyla borealis,134240,221
+1113,Sponge (Sycon sp.),Éponge (Sycon sp.),Sycon sp.,131723,7
+1114,Sponge (T. muricata),Éponge (T. muricata),Thenea muricata,134106,26
+1115,Fig sponge (S. ficus),Éponge (S. ficus),Suberites ficus,134285,38
+1117,Sponge (M. lingua),Éponge (M. lingua),Mycale (Mycale) lingua,168640,63
+1118,Sponge (M. loveli),Éponge (M. loveli),Mycale Mycale loveni,168642,5
+1120,Sponge (A. foliatum),Éponge (A. foliatum),Asconema foliatum,172017,42
+1122,Sponge (P. andrica),Éponge (P. andrica),Polymastia andrica,157415,2
+1123,Sponge (P. grimaldii),Éponge (P. grimaldii),Polymastia grimaldii,134199,12
+1127,Sponge (W. bursa),Éponge (W. bursa),Weberella bursa,134232,19
+1128,Sponge (A. arcigera),Éponge (A. arcigera),Artemisina arcigera,132992,19
+1130,Sponge (C. polyura),Éponge (C. polyura),Craniella polyura,171347,11
+1131,Sponge (H. arcofer),Éponge (H. arcofer),Hemigellius arcofer,166752,27
+1132,Sponge (I. piceum),Éponge (I. piceum),Iophon piceum,132972,5
+1136,Sponge (P. bowerbanki),Éponge (P. bowerbanki),Phakellia bowerbanki,132506,9
+1340,Cnidarians (unspecified jellyfishes),Cnidaires (méduses non spécifiées),Cnidaria,1267,3
+1341,Hydrozoans (Hydrozoa),Hydrozoaires (Hydrozoa),Hydrozoa,1337,670
+1352,Whitecross Jellyfish,Méduse à croix blanche,Staurostoma mertensii,594013,43
+1353,Jellyfish (P. lactea),Méduse (P. lactea),Ptychogena lactea,117728,413
+1357,Bottlebrush Hydroid  (T. thuja),Hydrozoaire (T. thuja),Thuiaria thuja,117940,152
+1366,Hydrozoans (Thuiaria sp.),Hydrozoaires (Thuiaria sp.),Thuiaria sp.,117237,2
+1375,,Siphonophore,Siphonophorae,1371,6
+1380,,Siphonophore (Rhodaliidae),Rhodaliidae,135350,45
+2040,Scyphozoans (Jellyfish) (Scyphozoa),Scyphozoaires (Méduses) (Scyphozoa),Scyphozoa,135220,848
+2050,Horned Stalked Jellyfish,Lucernaire à quatres cornes,Lucernaria quadricornis,135328,4
+2080,Lion's Mane (C. capilata),Crinière de lion (C. capilata),Cyanea capillata,135301,968
+2084,Jelly fish (Aurelia sp.),Méduse (Aurelia sp.),Aurelia sp.,135263,1
+2085,Moon Jelly,Méduse de lune,Aurelia aurita,135306,164
+2096,Crown jellyfish (P. periphylla),Méduse à coronne (P. periphylla),Periphylla periphylla,135294,536
+2097,Jellyfish (A. wyvillei),Méduse (A. wyvillei),Atolla wyvillei,135282,49
+2100,Anthozoan,Anthozoaires,Anthozoa,1292,1
+2150,Anemone (H. digitata),Anémone (H. digitata),Hormathia digitata,100951,206
+2151,Sea Anemone (C. similis†),Anémone de mer (C. similis†),Cribrinopsis similis,100824,4
+2152,Sea Anemone ((U. crassicornis),Anémone de mer (U. crassicornis),Urticina crassicornis,100832,21
+2153,Anemone (P. patula),Anémone beige évasée,Ptychodactis patula,101020,11
+2156,Zoanthid (E. erdmanni),Zoanthide (E. erdmanni),Epizoanthus erdmanni,101027,25
+2157,Sea Anemone (Epizoanthus sp.),Anémone de mer (Epizoanthus sp.),Epizoanthus sp.,100790,310
+2158,Anemone (B. tuediae),Anémone de mer (B. tuediae),Bolocera tuediae,100817,1165
+2159,Sea anemone (S. nexilis),Anémone de mer (S. nexilis),Stephanauge nexilis,158258,229
+2162,Anemone (A. callosa),Anémones de mer (A. callosa),Actinostola callosa,100839,934
+2165,Sea Anemones (Actiniaria),Actinies et Anémones (Actiniaria),Actiniaria,1360,279
+2167,Rugose Anemone,Anémone noduleuse,Hormathia nodosa,100954,116
+2171,Clonal Plumose Anemone (M. senile),Anémone de mer (M. senile),Metridium senile,100982,5
+2173,Anemone (S. coccinea),Anémone marbrée (S. coccinea),Stomphia coccinea,100854,473
+2182,Anemone (A.cristata),Anémone de mer (A. cristata),Actinauge cristata,158210,703
+2183,Sea Cauliflower (D. florida),Corail mou (D. florida),Duva florida,146943,189
+2184,Sea Strawberry (G. rubiformis),framboise de mer (G. rubiformis),Gersemia rubiformis,156103,372
+2191,Soft coral (D. glomerata),Corail mou (D. glomerata),Drifa glomerata,146941,258
+2201,Sea Pens (Pennatulacea),Plumes de mer (Pennatulacea),Pennatulacea,1367,338
+2203,Sea Pen (P. aculeata),Plume de mer (P. aculeata),Pennatula aculeata,128515,1214
+2204,Sea anemone (Zoanthids),Anémone de mer (Zoanthidés),Zoanthidae,100690,2
+2205,Sea Anemones (Actinauge sp.),Anémones de mer (Actinauge sp.),Actinauge sp.,100750,4
+2207,Sea anemone (L. multicorne),Anémone (L. multicorne),Liponema multicorne,593072,132
+2210,Sea Pen (P. grandis),Plume de mer (P. grandis),Ptilella grandis,1379630,357
+2213,Sea pen (K. stelliferum),Plume de mer (K. stelliferum),Kophobelemnon stelliferum,128512,2
+2217,Sea pen (H. finmarchica),Plume de mer (H. finmarchica),Halipteris finmarchica,128509,241
+2218,Sea pen (A. grandiflorum),Plume de mer (A. grandiflorum),Anthoptilum grandiflorum,128504,572
+2219,Soft corals (Nephtheidae),Coraux mous (Nephtheidae),Nephtheidae,146762,266
+2222,Soft coral (Heteropolypus sp.),Corail mou (Heteropolypus sp.),Heteropolypus sp.,345446,1
+2224,Cup coral (F. alabastrum),Madrépore (F. alabastrum),Flabellum (Ulocyathus) alabastrum,135194,106
+2250,Comb-Jellies (Ctenophora),Cténophores (Ctenophora),Ctenophora,1248,5
+2255,Sea Gooseberry,Groseille de mer ronde,Pleurobrachia pileus,106386,282
+2295,Flatworms (Fecampiidae),Vers flats (Fecampiidae),Fecampiidae, ,32
+2296,Fecampiidae Egg Capsule,Capsule d'oeuf de Fecampiidae,Capsule d'oeuf de Fecampiidae,,26
+2573,Priapulid (P. caudatus),Priapulide (P. caudatus),Priapulus caudatus,101160,6
+2585,Nematode,Nématode,Nematoda,799,4
+2670,Bryozoans (Bryozoa),Bryozoaires (Bryozoa),Bryozoa,146142,222
+2675,Bryozoan (Alcyonidium sp.),Bryozoaire (Alcyonidium sp.),Alcyonidium sp.,110993,7
+2676,Marine bryozoans (A. gelatinosum),Bryozoaire marin (A.gelatinosum),Alcyonidium gelatinosum,111600,9
+2677,Bryozoan (A. pachydermatum),Bryozoaire (A. pachydermatum),Alcyonidium pachydermatum,470640,14
+2679,Marine bryozoans (S. securifrons),Bryozoaires marins (S. securifrons),Securiflustra securifrons,111374,113
+2684,Marine Bryozoan (Celleporina sp.),Bryozoaire marin (Celleporina sp.),Celleporina,110875,1
+2685,Marine Bryozoan (C. surcularis),Bryozoaire marin (C. surcularis),Celleporina surcularis,111277,3
+2686,marine bryozoan (Phidolopora elongata),Bryozoaire marin (Phidolopora elongata),Phidolopora elongata,111445,4
+3000,Ribbon Worm,Némerte,Nemertea,152391,36
+3010,Chevron ribbon worm,chevron amphiporus,Amphiporus angulatus,,1
+3090,Lamp Shell (H. psittacea),Brachiopode (H. psittacea),Hemithiris psittacea,104054,93
+3101,Northern Lamp Shell,Térébratule du Nord,Terebratulina septentrionalis,104056,194
+3125,Chitons (Polyplacophora),Chitons (Polyplacophora),Polyplacophora,55,5
+3133,Chiton (Tonicellidae),Chiton (Tonicellidae),Tonicellidae,385500,5
+3134,Chitons (Tonicella sp.),Chitons (Tonicella sp.),Tonicella sp.,138090,5
+3141,chiton (Hanleya hanleyi),chiton (Hanleya hanleyi),Hanleya hanleyi,140082,1
+3145,Northern White Chiton,Chiton blanc du nord,Stenosemus albus,247773,1
+3146,Chiton (S. exaratus),Chiton (S. exaratus),Stenosemus exaratus,386014,1
+3154,Northern Red Chiton,Souris de mer (Chiton),Tonicella rubra,140152,2
+3164,Chiton (A. vestita),Chiton (A. vestita),Amicula vestita,159928,9
+3175,Gastropods (Slug and Snail),Gastéropodes (escargot et limace),Gastropoda,101,50
+3198,Northern Blind Limpet,Patelle (L. caeca),Lepeta caeca,140187,1
+3212,Topsnail (Margarites sp.),Troques (Margarites sp.),Margarites sp.,138592,1
+3216,Greenland marguerite,Troque (M. groenlandicus),Margarites groenlandicus,141820,50
+3219,Boreal Rosy Margarite,Margarite rosé du Nord,Margarites costalis,141819,143
+3225,Topsnail (Solariella sp.),Gastéropes (Solariella sp.),Solariella sp.,138597,2
+3227,Varicose Solarelle,Gastéropode (S. varicosa),Solariella varicosa,141846,2
+3249,Common Periwinkle,Bigorneau,Littorina littorea,140262,2
+3255,Northern Lacuna (L. vincta),Gastropode (L. vincta),Lacuna vincta,140170,4
+3305,Boreal hairysnail,Gastéropode (A. borealis),Ariadnaria borealis,714762,3
+3310,Eroded Turritsnail (T. erosus),Gastropode (T. erosus),Tachyrhynchus erosus,196391,8
+3418,American Pelicanfoot,Pied-de-pélican,Arrhoges occidentalis,531617,292
+3420,Moonsnails (Naticidae),Lunaties (Naticidae),Naticidae,145,48
+3422,Arctic moonsnail (C. affinis),Lunaties (C. affinis),Cryptonatica affinis,140525,54
+3437,Pale Moonsnail (E. pallida),Lunatie du Groenland (E. pallida),Euspira pallida,140536,99
+3445,Snails (Lacuna sp.),Gastropodes (Lacuna sp.),Lacuna sp.,138099,1
+3452,Snail (Velutinidae),Gastéropode (Velutinidae),Velutinidae,143,3
+3455,Snail (Onchidiopsis sp.),Gastéropode velutinidae (Onchidiopsis sp.),Onchidiopsis sp.,138628,4
+3459,Wavy Lamellaria,Veloutée rayée,Limneria undata,141904,16
+3460,Smooth lamellaria,Veloutée lisse,Velutina velutina,141905,7
+3487,Clathrate Trophon (B. clathratus),Murex (B. clathratus),Boreotrophon clathratus,146732,1
+3488,Murex (Boreotrophon sp.),Murex (Boreotrophon sp.),Boreotrophon sp.,146731,37
+3491,Murex (S. fabricii),Murex (S. fabricii),Scabrotrophon fabricii,147146,92
+3515,Whelks,Buccinidés,Buccinidae,149,19
+3516,Whelk (Buccinum sp.),Buccins (Buccinum sp.),Buccinum sp.,137701,262
+3517,Waved Whelk,Buccin commun,Buccinum undatum,138878,148
+3518,Thin Whelk,Buccin (B. polare),Buccinum polare,138873,5
+3519,Whelk (B. turtoni),Buccin (B. turtoni),Beringius turtoni,138855,15
+3520,Bluish Whelk,Buccin bleu,Buccinum cyaneum,138862,176
+3523,Ladder Whelk (B. scalariforme),Buccin (B. scalariforme),Buccinum scalariforme,138875,47
+3564,Norway Whelk,Buccin (V. norwegicus),Volutopsius norwegicus,138938,4
+3565,Whelks (Neptunea sp.),Buccins (Neptunea sp.),Neptunea sp.,137710,8
+3566,Wrinkle Whelk (N. decemcostata),Neptunée à dix côtes,Neptunea decemcostata,491164,1
+3567,Lader Whelk (N. despecta),Neptunée commune du nord,Neptunea despecta,138923,99
+3575,Whelks (Colus sp.),Buccins (Colus sp.),Colus sp.,137704,61
+3576,Whelk (C. stimpsoni),Buccin (C. stimpsoni),Colus stimpsoni,160215,42
+3577,Hairy Whelk (C. pubescens),Buccin (C. pubescens),Colus pubescens,160212,70
+3578,Arctic Whelk,Colus (P. kroeyeri),Plicifusus kroyeri,491269,25
+3583,Whelk (A. brevicauda),Buccin (A. brevicauda),Aulacofusus brevicauda,490735,18
+3630,Snail (P. scalaris),Gastropode (P. scalaris),Propebela scalaris,160447,1
+3715,Giant Canoe Bubble (S. punctostriatus),Céphalaspide (S. punctostriatus),Scaphander punctostriatus,139490,343
+3832,Naked Sea Butterfliy (C. limacina),Ptéropode (C. limacina),Clione limacina,139178,1
+3850,Nudibranchs (Nudibranchia),Nudibranches (Nudibranchia),Nudibranchia,1762,20
+3860,Nudibranchs (Onchidorididae),Nudibranches (Onchidorididae),Onchidorididae,175,1
+3891,Nudibranch (A. zetlandica),Nudibranche(A. zetlandica),Aldisa zetlandica,138739,37
+3893,Nudibranch (Dendronotus sp.),Nudibranche (Dendronotus sp.),Dendronotus sp.,137885,30
+3894,Nudibranch (D. frondosus),Nudibranche (D. frondosus),Dendronotus frondosus,139523,32
+3895,Orange Nudibranch,Nudibranche orangé,Dendronotus elegans,156710,11
+3908,Nudibranch (C. villosa),Nudibranche (C. villosa),Colga villosa,146851,121
+3964,Nudibranch (H. robusta),Nudibranche (H. robusta),Heterodoris robusta,,5
+3965,Nudibranch (D. ingolfiana),Nudibranche (D. ingolfiana),Doridoxa ingolfiana,370549,11
+3977,Tuskshell (Antalis sp.),Scaphopode (Antalis sp.),Antalis sp.,150531,1
+3978,occidental tuskshell,Scaphopode (Antalis occidentalis),Antalis occidentalis,196377,2
+3995,Bivalves (Bivalvia),Bivalves (Bivalvia),Bivalvia,105,46
+4010,Smooth Nutclam,bivalve (E. tenuis),Ennucula tenuis,140584,1
+4019,Nutclams (Nuculana sp.),Bivalves (Nuculana sp.),Nuculana sp.,138259,36
+4021,Northern Nutclam (N. pernula),Bivalve (N. pernula),Nuculana pernula,140579,1
+4025,Broad Yoldia (M. thraciaeformis),Bivalve (M. thraciaeformis),Megayoldia thraciaeformis,141983,368
+4074,Bivalves (Yoldia sp.),Bivalves (Yoldia sp.),Yoldia sp.,138672,8
+4105,Glacial Bathyark,Bivalve (B. glacialis),Bathyarca glacialis,138797,9
+4121,Mussels (Mytilus sp.),Moules (Mytilus sp.),Mytilus sp.,138228,158
+4124,Bean crenella,Crénella fauve,Crenella faba,156763,6
+4126,Mussels (Muscules sp.),Moules (Musculus sp.),Musculus sp.,138225,13
+4127,Black Mussel,Moule noire,Musculus niger,140474,7
+4128,Discordant mussel,Moule lisse,Musculus discors,140472,6
+4167,Iceland Scallop,Pétoncle d' Islande,Chlamys islandica,140692,245
+4179,Sea Scallop,Pétoncle géant,Placopecten magellanicus,156972,1
+4191,Greenland Glass-Scallop (S. greenlandicus),Pétoncle (S. greenlandicus),Similipecten greenlandicus,181299,54
+4218,Scallop (Anomiidae),Pétoncle (Anomiidae),Anomiidae,214,6
+4219,Jingle shells (Anomia sp.),Anomies (Anomia sp.),Anomia sp.,137650,20
+4227,Astartes (Astarte sp.),Astartes (Astarte sp.),Astarte sp.,137683,418
+4230,Narrow Hinge Astarte (A. montagui),Astarte (A. montagui),Astarte montagui,138823,1
+4231,Boreal Astarte (A. borealis),Astarte (A. borealis),Astarte borealis,138818,10
+4268,Northern Cyclocardia,Vénéricarde boréale,Cyclocardia borealis,156832,18
+4280,Bivalves (Lyonsiella sp.),Bivalves (Lyonsiella sp.),Lyonsiella sp.,138654,1
+4301,cleftclam (Thyasira sp.),bivalve (Thyasira sp.),Thyasira,138552,9
+4338,Northern Dwarf-Cockle,Coque naine du nord,Parvicardium pinnulatum,156765,1
+4351,Iceland Cockle,Coque d'Islande,Ciliatocardium ciliatum,139000,110
+4352,Greenland Smoothcockle (S. groenlandicus),Coque du Groenland,Serripes groenlandicus,582749,25
+4384,Arctic wedgeclam (M. arctatum),Clovisse arctique,Mesodesma arctatum,156805,2
+4395,Chalky Macoma (M. calcarea),Bivalve (M. calcarea),Macoma calcarea,141580,73
+4428,Truncate Softshell Clam,Mye tronquée,Mya truncata,140431,2
+4437,Arctic Saxicave,Saxicave arctique,Hiatella arctica,140103,48
+4438,Arctic Roughmya (P. norvegica),Saxicave (P. norvegica),Panomya norvegica,140105,16
+4441,Northern Propellerclam (C. siliqua),Couteau de Banks (C. siliqua),Cyrtodaria siliqua,140102,1
+4451,Atlantic Woodeater,Bivalve (X. atlantica),Xylophaga atlantica,156497,23
+4498,Naval shipworm (T. navalis),Taret commun (T. navalis),Teredo navalis,141607,3
+4526,Gacial Dipperclam (C. glacialis),bivalve (C. glacialis),Cuspidaria glacialis,139445,430
+4545,Cephalopods,Céphalopodes,Cephalopoda,11707,60
+4557,Bobtails (Rossia sp.),Sépioles (Rossia sp.),Rossia sp.,138481,632
+4562,Big-Fin Bobtail Squid (R. megaptera),Sépiole (R. megaptera),Rossia megaptera,157032,3
+4569,Lesser Shining Bobtail,Sépiole calamarette,Semirossia tenera,157036,2
+4587,Butterfly Squid (S. leucoptera),Sépiole (S. leucoptera),Stoloteuthis leucoptera,157037,48
+4753,Northern Shortfin Squid (I. illecebrosus),Encornet rouge nordique (I. illecebrosus),Illex illecebrosus,153087,1192
+4770,Boreoatlantic Armhook Squid (G. fabricii),Encornet atlantoboréal (G. fabricii),Gonatus fabricii,153097,3
+4853,Octopus (S. syrtensis),Pieuvre (S. syrtensis),Stauroteuthis syrtensis,153122,5
+4878,Octopus (Bathypolypus sp.),Poulpes (Bathypolypus sp.),Bathypolypus sp.,138265,2
+4894,Octopus (Octopus sp.),Pieuvre (Octopus sp.),Octopus sp.,138268,1
+4904,North Atlantic Octopus (B. bairdii),Poulpe (B. bairdii),Bathypolypus bairdii,157011,835
+4950,Polychaetes (Polychaeta),Polychètes (Polychaeta),Polychaeta,883,890
+4955,Paddle Worm (P. groenlandica),Polychète (P. groenlandica),Phyllodoce groenlandica,334506,5
+5002,Sea Mouse (A. hastata),Souris de mer (A. hastata),Aphrodita hastata,157181,197
+5003,Seaworm (L. filicornis),Polychète (L. filicornis),Laetmonice filicornis,129844,330
+5007,Fifteen-Scaled Worm (Polynoidae),Polychète errante (Polynoidae),Polynoidae,939,393
+5009,Fifteen scales worm (A. mollis),Polychètes (A. mollis),Austrolaenilla mollis,130725,1
+5045,Seaworm (E. nodosa),Polychète (E. nodosa),Eunoe nodosa,130745,14
+5046,Fifteen-Scaled Worms (Harmothoe sp.),Polychètes errantes (Harmothoe sp.),Harmothoe sp.,129491,3
+5053,Scaled worm (N. tetragona),Polychète (N. tetragona),Neoleanira tetragona,131069,51
+5080,Blood Worm (G. capitata),Polychète errante (G. capitata),Glycera capitata,130118,1
+5089,Seaworm (G. norvegica),Polychète (G. norvegica),Goniada norvegica,130141,5
+5113,Red-Lined Worm (Nephtys sp.),Polychète errante (Nephtys sp.),Nephtys sp.,129370,37
+5225,Clam Worm (Nereididae),Polychète errante (Nereididae),Nereididae,22496,1
+5232,clam worm (Nereis sp.,polychète (Nereis sp.,Nereis,129379,2
+5236,Clam worm (N. pelagica),Polychète (N. pelagica),Nereis pelagica,130404,5
+5264,Sea worm (P. crassa),Polychète (P. crassa),Polyphysia crassa,130977,52
+5267,Seaworm (S. inflatum),Polychète (S. inflatum),Scalibregma inflatum,130980,3
+5277,Bamboo Worm (Maldanidae),Polychète sédentaire (Maldanidae),Maldanidae,923,19
+5309,Bamboo worm (M. sarsi),Polychètes (M. sarsi),Maldane sarsi,130305,16
+5310,Bamboo worms (Nicomache sp.),Polychètes (Nicomache sp.),Nicomache sp,129357,1
+5461,Seaworm (E. borealis),Polychète (E. borealis),Euphrosine borealis,130081,19
+5475,Seaworm (N. conchylega),Polychète (N. conchylega),Nothria conchylega,130467,1
+5479,Seaworm (E. pennata),Polychète (E. pennata),Eunice pennata,130060,6
+5617,Trumpet Worm (C. granulata),Ver-trompette (C. granulata),Cistenides granulata,238377,5
+5646,Seaworm (M. cristata),Polychète (M. cristata),Melinna cristata,129804,19
+5673,Terebellid Worm (Terebellidae),Polychète sédentaire (Terebellidae),Terebellidae,982,4
+5675,Terebellid worm (A. cirrata),Polychète (A. cirrita),Amphitrite cirrata,131474,2
+5678,Terebellid worm (A. maculata),Polychète (A. maculata),Axionice maculata,131484,1
+5746,Flabelligerid Worm (Flabelligeridae),Polychète sédentaire (Flabelligeridae),Flabelligeridae,976,1
+5755,Flabelligerid worm (B. inhabilis),Polychète (B. inhabilis),Brada inhabilis,130097,63
+5900,Sipunculids (Sipuncula),Sipunculides (Sipuncula),Sipuncula,1268,130
+5901,Sipunculids (Golfingia sp.),Sipunculides (Golfingia sp.),Golfingia sp.,136021,1
+5902,Sipunculid (G. margaritacea),Sipunculide (G. margaritacea),Golfingia (golfingia) margaritacea,175027,40
+5907,Hermit Sipunculid (P. strombus),Sipunculide (P. strombus),Phascolion (Phascolion) strombus strombus,410749,35
+5934,Echiurid (H. arctica),Échiure (H. arctica),Hamingia arctica,110364,19
+5935,Spoon Worm,Bonellie,Pseudobonellia iraidii,157605,3
+5951,Sea Spiders (Pycnogonida),Araignées de mer (Pycnogonida),Pycnogonida,1302,36
+5961,Sea Spiders (Nymphon sp.),Araignées de mer (Nymphon sp.),Nymphon sp.,134591,386
+5964,Sea spider (N. hirtipes),Araignée de mer (N. hirtipes),Nymphon hirtipes,134690,5
+5975,Sea Spider (P. litorale),Araignée de mer (P. litorale),Pycnogonum litorale,239867,1
+6580,Barnacles (Cirripedia),Balanes (Cirripedia),Cirripedia,1082,1
+6592,Barnacle (Balanus sp.),Balane (Balanus sp.),Balanus sp.,106122,4
+6593,Turban Barnacle,Balane turbané,Chirona hameri,106207,58
+6594,Barnacle (A. michelottianum),Balane (A. michelottianum),Arcoscalpellum michelottianum,106182,67
+6595,Barnacles (Balanidae),Balanes (Balanidae),Balanidae,106057,64
+6597,Barnacle (B. balanus),Balane (B. balanus),Balanus balanus,106213,1
+6620,Cumaceans (Cumacea),Cumacés (Cumacea),Cumacea,1137,1
+6683,Cumacean (Diastylis sp.),Cumacé (Diastylis sp.),Diastylis sp.,110398,1
+6771,Isopod (A. psora),Isopode (A. psora),Aega psora,118827,168
+6791,Isopod (S. infelix),Isopode (S. infelix),Syscenus infelix,156446,916
+6930,Amphipods,Amphipodes,Amphipoda,1135,24
+6967,Hyperiid (Themisto sp.),Hypéride (Themisto sp.),Themisto sp.,101800,6
+6970,Hyperiid (T. compressa),Hypéride (T. compressa),Themisto compressa,156451,4
+6972,Hyperiid (T. libellula),Hypéride (T. libellula),Themisto libellula,156452,219
+6977,Hyperiid (H. galba),Hypéride (H. galba),Hyperia galba,103251,58
+6996,Amphipod (Ampelisca sp.),Gammaride (Ampelisca sp.),Ampelisca sp.,101445,10
+6999,Amphipod (A. eschrichtii),Gammaride (A. eschrichtii),Ampelisca eschrichtii,101897,3
+7193,Gammarid (Eusiridae),Gammaride (Eusiridae),Eusiridae,101380,2
+7195,Gammarid (E. cuspidatus),Gammaride (E.cuspidatus),Eusirus cuspidatus,102199,88
+7211,Gammarid (R. aculeata),Gammaride (R. aculeata),Rhachotropis aculeata,102224,280
+7234,Gammarid (H. abyssi),Gammaride (H. abyssi),Halice abyssi,102939,1
+7268,Gammarid (M. dentata),Gammaride (M. dentata),Megamoera dentata,423508,8
+7279,Gammarid (M. loveni),Gammaride (M. loveni),Maera loveni,102820,3
+7357,Gammarid (Lysianassidae),Gammaride (Lysianassidae),Lysianassidae,101395,1
+7383,Gammarid (E. loricata),Gammaride (E. loricata),Epimeria loricata,102146,102
+7389,Gammarids (Anonyx sp.),Gammarides (Anonyx sp.),Anonyx sp.,101592,157
+7483,Gammarid (N. monstrosa),Gammaride (N. monstrosa),Neohela monstrosa,102108,51
+7511,Gammarid (Oedicerotidae),Gammaride (Oedicerotidae),Oedicerotidae,101400,1
+7539,Gammarid (P. lynceus),Gammaride (P. lynceus),Paroediceros lynceus,102911,1
+7555,Gammarid (O.saginatus),Gammaride (O.saginatus),Oediceros saginatus,102908,1
+7586,Gammarid (P. hystrix),Gammaride (P. hystrix),Paramphithoe hystrix,102152,97
+7594,Gammarid (P. abyssi),Gammaride (P. abyssi),Pardalisca abyssi,102945,6
+7691,Gammarid (W. torelli),Gammaride (W. torelli),Wimvadocus torelli,535546,5
+7750,Gammarid (S. inflatus),Gammaride (S. inflatus),Stegocephalus inflatus,103105,233
+7881,Skeleton Shrimp,Caprellidés,Caprellidae,101361,1
+7890,Caprellid (A. longicornis),Caprellide (A. longicornis),Aeginina longicornis,101820,2
+7933,Mysids (Boreomysis sp.),Mysidacés (Boreomysis sp.),Boreomysis sp.,119842,1
+7967,Mysid (Mysis sp.),Mysidacé (Mysis sp.),Mysis sp.,119886,1
+7994,Horned Krill (M. norvegica),Euphauside (M. norvegica),Meganyctiphanes norvegica,110690,39
+8024,Scarlet Shrimp,Gambon écarlate,Aristaeopsis edwardsiana,240796,3
+8027,Shrimp (G. elegans),Crevette (G. elegans),Gennadas elegans,107095,2
+8028,Shrimp (H. debilis),Crevette (H. debilis),Hymenopenaeus debilis,107117,7
+8033,Shrimp (E. arcticus),Crevette (E. arcticus),Eusergestes arcticus,515738,150
+8035,Scarlet Sergestid,Sergistidé écarlate,Sergia robusta,107136,15
+8037,Caridean Shrimps (Caridea),Crevettes (Caridea),Caridea,106674,1
+8039,Shrimp (Acanthephyra sp.),Crevette (Acanthephyra sp.),Acanthephyra sp.,107018,1
+8040,Shrimp (A. pelagica),Crevette (A. pelagica),Acanthephyra pelagica,107581,10
+8056,Crimson Pasiphaeid (P. tarda),Sivade (P. tarda),Pasiphaea tarda,107678,10
+8057,Pink Glass Shrimp,"Sivade rose, Crevette blanche",Pasiphaea multidentata,107676,1658
+8074,Eualid (Eualus sp.),Bouc (Eualus sp.),Eualus sp.,106986,32
+8075,Arctic Eualid (E. fabricii),Bouc Arctique (E. fabricii),Eualus fabricii,158357,282
+8077,Greenland Shrimp (E. macilentus),Bouc du Groenland (E. macilentus),Eualus macilentus,158359,417
+8079,Circumpolar Eualid (E.gaimardii),Bouc (E.gaimardii),Eualus gaimardii,107504,4
+8080,Circumpolar Eualid (E. gaimardii gaimardii),Bouc (E. gaimardii gaimardii),Eualus gaimardii gaimardii,515737,138
+8081,Circumpolar Eualid (E. belcheri),Bouc (E. belcheri),Eualus belcheri,107502,27
+8084,Blade Shrimp (Spirontocaris sp.),Bouc (Spirontocaris sp.),Spirontocaris sp.,106994,77
+8085,Parrot Shrimp (S. spinus),Bouc perroquet (S. spinus),Spirontocaris spinus,107533,437
+8086,Punctate Blade Shrimp (S. phippsii),Bouc (S. phippsii),Spirontocaris phippsii,107532,38
+8087,Friendly Blade Shrimp (S. lilljeborgii),Bouc épineux (S. lilljeborgii),Spirontocaris liljeborgii,107531,489
+8091,Lebbeids (Lebbeus sp.),Boucs (Lebbeus sp.),Lebbeus sp.,106989,12
+8092,Spiny Lebbeid (L. groenlandicus),Bouc (L. groenlandicus),Lebbeus groenlandicus,107520,193
+8093,Polar Lebbeid (L. polaris),Bouc (L. polaris),Lebbeus polaris,107521,848
+8095,Shrimp (L. microceros),Bouc (L. microceros),Lebbeus microceros,158362,38
+8108,Bristled Longbeak Shrimp (D. leptocerus),Crevette (D. leptocerus),Dichelopandalus leptocerus,158356,2
+8110,Boreal Red Shrimp (Pandalus sp.),Crevette (Pandalus sp.),Pandalus sp.,107044,9
+8111,Northern Shrimp,Crevette nordique,Pandalus borealis,107649,9252
+8112,"Striped Pink Shrimp, Aesop Shrimp",Crevette ésope,Pandalus montagui,107651,1494
+8113,Shrimp (A. propinqvus),Crevette (A. propinqvus),Atlantopandalus propinqvus,158351,194
+8114,Golden shrimp (P. martia),Crevette (P. martia),Plesionika martia,107661,5
+8119,Scultured Shrimp (S. boreas),Crevette de roche (ciselée) (S. boreas),Sclerocrangon boreas,107568,240
+8125,"Sand Shrimp, Sevenspine Bay Shrimp",Crevette sable,Crangon septemspinosa,158355,3
+8127,Shrimp (Sabinea sp.),Crevette (Sabinea sp.),Sabinea sp.,107012,6
+8128,Sevenline Shrimp (S. septemcarinata),Crevette (S. septemcarinata),Sabinea septemcarinata,107567,502
+8129,Sars Shrimp (S. sarsii),Crevette (S. sarsii),Sabinea sarsii,107566,187
+8135,Norwegian Shrimp (P. norvegicus),Crevette (P. norvegicus),Pontophilus norvegicus,107563,1163
+8138,Arctic Argid,Crevette verte,Argis dentata,107550,677
+8154,American Lobster,Homard américain,Homarus americanus,156134,4
+8164,Squat Lobster (M. curvirostra),Munidopsis curvirostra (M. curvirostra),Munidopsis curvirostra,107175,348
+8173,Lobster Shrimp (C. templemani),Crevette fouisseuse (C. templemani),Calocaris templemani,158383,45
+8178,Hermit Crab (Pagurus sp.),Bernard hermite droitier (Pagurus sp.),Pagurus sp.,106854,297
+8180,Hermit Crab (P. pubescens),Bernard hermite (P. pubescens),Pagurus pubescens,107240,4
+8182,Hairy Hermit Crab,Bernard hermite chevelu,Pagurus arcuatus,158402,14
+8196,Norway King Crab (L. maja),Crabe épineux du Nord (L. maja),Lithodes maja,107205,1045
+8206,Common Rock Crab,Crabe commun,Cancer irroratus,158057,7
+8213,Snow Crab (C. opilio),Crabe des neiges  (C. opilio),Chionoecetes opilio,107315,1841
+8216,Toad Crab (Hyas sp.),Crabe lyre (Hyas sp.),Hyas sp.,106903,49
+8217,Atlantic Lyre Crab  (H. araneus),Crabe lyre (araignée) (H. araneus),Hyas araneus,107322,326
+8219,Arctic Lyre Crab  (H. alutaceus),Crabe lyre (arctique)(H. alutaceus),Hyas alutaceus,442166,708
+8263,Feather star (H. glacialis),Lis de mer ( H. glacialis),Heliometra glacialis,124223,35
+8290,Sea Cucumbers,Cocombres de mer,Holothuroidea,123083,21
+8293,Sea Cucumbers (Psolus sp.),Concombres de mer (Psolus sp.),Psolus sp.,146121,2
+8294,Sea Cucumber (P. Phantapus),Holothurie (P. phantapus),Psolus phantapus,124710,67
+8295,Scarlet Psolus,Psolus écarlate,Psolus fabricii,124703,12
+8312,Orange Footed Sea Cucumber (C. frondosa),Concombre de mer (C. frondosa),Cucumaria frondosa,124612,91
+8316,Sea Cucumber (E. barthii),Concombre de mer (E. barthii),Ekmania barthii,124681,1
+8319,Sea cucumber (P. calcigera),Cocombre de mer (P. calcigera),Pentamera calcigera,124655,1
+8322,Sea Cucumber (M. oolitica),Holothurie (M. oolitica),Molpadia oolitica,124802,27
+8363,Sea Urchins (Strongylocentrotus sp.),Oursins (Strongylocentrotus sp.),Strongylocentrotus sp.,123390,895
+8373,Common Sand Dollar (E. parma),Dollar de sable (E. parma),Echinarachnius parma,158062,48
+8378,Heart Urchin (B. fragilis),Oursin coeur (B. fragilis),Brisaster fragilis,124404,1308
+8390,Sea Stars (Asteroidea),Étoiles de mer (Asteroidea),Asteroidea,123080,61
+8396,Purple Seastar,Astérie boréale commune,Asterias rubens,123776,18
+8407,Mud Star (C. crispatus),Étoile de mer (C. crispatus),Ctenodiscus crispatus,123915,1747
+8408,Sea Star (D. multipes),Étoile de mer (D. multipes),Diplopteraster multipes,124128,42
+8409,Sea stars (Pteraster sp.),Étoiles de mer (Pteraster sp.),Pteraster sp.,123335,7
+8410,Sea Star (P. militaris),Étoile de mer (P. militaris),Pteraster militaris,124147,261
+8411,Sea Star (P. pulvillus),Étoile de mer (P. pulvillus),Pteraster pulvillus,124151,162
+8412,Sea Star (P. obscurus),Étoile de mer (P. obscurus),Pteraster obscurus,124149,12
+8429,Sea Star (C. granularis),Étoile de mer (C. granularis),Ceramaster granularis,124020,318
+8431,Sea Star (H. phrygiana),Étoile de mer (H. phrygiana),Hippasteria phrygiana,124043,671
+8433,Sea Star (P. parelii),Étoile de mer (P. parelii),Pseudarchaster parelii,124085,202
+8435,Sea star (Poraniomorpha sp.),Étoile de mer (Poraniomorpha sp.),Poraniomorpha sp.,123321,114
+8444,Sea star (L. furcifer),Étoile de mer (L. furcifer),Lophaster furcifer,124156,2
+8445,Purple Sunstar,Soleil de mer pourpre,Solaster endeca,124160,109
+8446,Sea star (T. mirabilis),Étoile de mer (T. mirabilis),Tremaster mirabilis,124002,5
+8447,Spiny Sun Star,Soleil de mer épineux,Crossaster papposus,124154,472
+8448,Sea star (N. americana),Étoile de mer (N. americana),Novodinia americana,178261,14
+8483,Sea Stars (Henricia sp.),Étoiles de mer (Henricia sp.),Henricia sp.,123276,979
+8510,Sea Stars (Leptasterias sp.),Étoiles de mer (Leptasterias sp.),Leptasterias sp.,123222,80
+8511,Polar Sea Star (L. polaris),Étoile de mer polaire (L. polaris),Leptasterias (Hexasterias) polaris,125154,148
+8513,Greenland Sea Star,Étoile de mer du Groenland,Leptasterias groenlandica,369176,144
+8515,Sea star (S. albula),Étoile de mer (S. albula),Stephanasterias albula,123808,51
+8516,Sea Star (U. lincki),Étoile de mer (U. lincki),Urasterias lincki,123815,5
+8520,Sea Star (P. andromeda),Étoile de mer (P. andromeda),Psilaster andromeda,123908,245
+8521,Sea Star (L. arcticus),Stelléridé (L. arcticus),Leptychaster arcticus,123896,72
+8530,Brittle Stars (Ophiuroidea),Ophiures (Ophiuroidea),Ophiuroidea,123084,136
+8540,Basket Stars (Gorgonocephalus sp.),Gorgonocéphales (Gorgonocephalus sp.),Gorgonocephalus sp.,123586,397
+8541,Northen Basket Star  (G. arcticus),Gorgonocéphale (G. arcticus),Gorgonocephalus arcticus,124966,96
+8551,Brittle Stars (Ophiura sp.),Ophiures (Ophiura sp.),Ophiura sp.,123574,5
+8552,Brittle Star (O. robusta),Ophiure (O. robusta),Ophiura robusta,124933,32
+8553,Brittle Star (O. sarsii),Ophiure (O. sarsii),Ophiura sarsii,124934,812
+8570,Brittle Star (S. nodosa),Ophiure (S. nodosa),Stegophiura nodosa,124943,1
+8575,Brittle Star (O. bidentata),Ophiure épineuse,Ophiacantha bidentata,124978,357
+8583,Daisy Brittle Star,Ophiure paquerette,Ophiopholis aculeata,125125,811
+8585,Brittle star (O. glacialis),Ophiure (O. glacialis),Ophioscolex glacialis,125147,154
+8593,Brittle star (Amphiura sp.),Ophiures (Amphiura sp.),Amphiura sp.,123613,79
+8680,"Ascidians, Sessile Tunicates (Ascidiacea)","Ascidies, tuniqués sessiles (Ascidiacea)",Ascidiacea,1839,655
+8742,Sea squirts (Ascidia sp.),Ascidie (Ascidia sp.),Ascidia sp.,103483,527
+8757,Tunicate (C. finmarkiensis),Ascidie (C. finmarkiensis),Cnemidocarpa finmarkiensis,103870,3
+8759,Blood Drop Sea Squirt,Ascidie goutte de sang,Dendrodoa carnea,103881,1
+8760,Tunicate (Didemnum sp.),Ascidie (Didemnum sp.),Didemnum sp.,103456,1
+8761,Tunicate (D. pulchella),Ascidie (D. pulchella),Dendrodoa pulchella,103885,6
+8776,Tunicate (S. pulmonaria),Ascidie (S. pulmonaria),Synoicum pulmonaria,103692,14
+8778,Tunicate (E. vitreum),Ascidie (E. vitreum),Eudistoma vitreum,103624,172
+8781,Tunicate (P. corrugata),Ascidie (P. corrugata),Pelonaia corrugata,103894,4
+8783,Tunicate (P. fibrosa),Ascidie (P. fibrosa),Polycarpa fibrosa,103902,40
+8792,Sea Potato (B. ovifera),Patate de mer (B. ovifera),Boltenia ovifera,103815,282
+8793,Cactus Sea Squirt (B. echinata),Cactus de mer (B. echinata),Boltenia echinata,103814,36
+8797,Sea Peach,PÍche de mer,Halocynthia pyriformis,103828,22
+8798,Tunicate (Botrylloides sp.),Ascidie (Botrylloides sp.),Botrylloides sp.,103528,42
+8800,Tunicates (Styela Sp.),Ascidies (Styela sp.),Styela sp.,103543,1
+8801,Tunicate (S. rustica),Ascidie (S. rustica),Styela rustica,103937,3
+8802,Tunicate (S. coriacea),Ascidie (S. coriacea),Styela coriacea,103930,1
+8812,Sea Grapes (M. griffithsii),Ascidie (M. griffitsii),Molgula griffithsii,250885,1
+9100,Red Algae,Algues rouges,Rhodophyta,852,122
+9200,Brown Algae (Phaeophyta),Algues brunes (Phaeophyta),Phaeophyta,829,167
+9202,Brown Algae (Agarum sp.),Algues brunes (Agarum sp.),Agarum sp.,157205,15
+9203,Sea Colander,Laminaire criblée,Agarum clathratum,157207,42
+9206,Brown Seaweed (C. crispus),Mousse d'Irlande (C. crispus),Chondrus crispus,145625,22
+9215,Brown Algae (Fucales),Algues brunes (Fucales),Fucales,844,84
+9218,Brown Algeas (Ascophyllum sp.),Algues brunes (Ascophyllum sp.),Ascophyllum sp.,144128,1
+9220,Kelps (Laminaria sp.),Laminaires (Laminaria sp.),Laminaria sp.,144199,234
+9950,Whelk Eggs (Neptunea sp.),Oeufs de neptunées (Neptunea sp.),Oeufs de neptunées (Neptunea sp.), ,0
+9965,,Capsule de raie lisse,Capsule de raie lisse, ,237
+9966,,Capsule de raie épineuse,Capsule de raie épineuse, ,216
+9967,,Capsule de raie à queue épineuse,Capsule de raie à queue épineuse, ,1
+9968,,Capsule de raie ronde,Capsule de raie ronde,  ,2
+9970,Skates Eggs,Capsule de raies,Capsule de raies, ,415
+9995,Trash,Déchets,Déchets,,3184
+9999,Unknown,Inconnu,Inconnu,,51
