@@ -8,6 +8,9 @@ Repository to facilitate the species list workshop.
 - Decide on whether regional specific lists (i.e., vernaculars) should be enabled in Andes
 - Improving the effective display of names and codes in Andes
 
+## Prerequisites 
+
+Willingness to improve regional systems and to participate in the development of Andes.
 
 ## Homework before the meeting
 
@@ -20,29 +23,31 @@ observations in the past 20 years.**
 2. Please prepare a list of regional problems and concerns relating to species list and the implementations thereof. These items will be compiled at 
 the start of the meeting to help guide the discussion. 
 
-## Suggested Presentations / Sessions
-
-| Title                                                                                          | Presenter / Moderator | Duration |
-|------------------------------------------------------------------------------------------------|-----------------------|----------|
-| Presentation of regional species-related problems from the homework assignment                 | Roundtable discussion | 90 min   |
-| Taxonomic names – understanding sources and authorities                                        | C. Nozeres            | ??       |
-| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard             | ??       |
-| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???    | 20 min   |
-|                                                                                                |                       |          |
-
 
 ## Tentative Agenda 
-***TO BE COMPLETED ONCE THERE IS A COMPREHENSIVE LIST OF PRESENTATIONS / SESSIONS***
+
+Focus on practical problem solving
+
+Use a whiteboard to write down problems, then checmark them as they are solved
+
+Why are we having problems with the Andes species list? What are the stumbling blocks for each region?
+
+Five (maybe more) pillars:
+1 - Existing databases 
+2 - Andes and the Andes master database
+3 - Sampling protocols, how they have changed within a survey, and how they are implemented in Andes
+4 - From Andes to Oracle, how to get Andes survey data into existing databases
+5 - Analysis of survey data, how to deal with changes in sampling protocols
+6 - 
 
 ### Tuesday, December 13 2022
 
-
-| Time |                                                                  |
+| Time |                                                                   |
 |  ---- |------------------------------------------------------------------|
-| 9:00 | Introductions, round table                                       |
-| 9:15 | Motivation for workshop (Nozeres and Ricard)                     |
-| 9:30 | Taxonomic names – understanding sources and authorities          |
-| 10:15 |                                                                  |
+| 9:00 | Introductions, round table                                        |
+| 9:15 | Motivation for workshop (Nozeres and Ricard)                      |
+| 9:30 | Taxonomic names – understanding sources and authorities           |
+| 10:15 | Andes and issues that arose                                      |
 | 10:30 | Break                                                            |
 | 10:45 | Non-taxonomic terms – consolidating use across regions           |
 | 12:00 | Lunch                                                            |
@@ -52,6 +57,18 @@ the start of the meeting to help guide the discussion.
 | 16:30 | Overview of the day and plan for tomorrow                        |
 | 17:00 | Adjourn for the day                                              |
 | 18:00 | drinks at a brewpub followed by dinner
+
+#### Suggested Presentations / Sessions
+
+| Title                                                                                          | Presenter / Moderator | Duration |
+|------------------------------------------------------------------------------------------------|-----------------------|----------|
+| Presentation of regional species-related problems from the homework assignment                 | Roundtable discussion | 60 min   |
+| Another data entry system (Andes)			                                         | D. Fishman and D. Ricard | 15-30 min |
+| Taxonomic names – understanding sources and authorities                                        | C. Nozeres            | 30 min   |
+| Survey protocols			                                         | D. Ricard an R. Martin | 15-30 min |
+| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard             | 10  min  |
+| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???    | 20 min   |
+|                                                                                                |                       |          |
 
 
 ### Wednesday, December 14 2022
