@@ -26,7 +26,7 @@ the start of the meeting to help guide the discussion.
 
 ## Tentative Agenda 
 
-Focus on practical problem solving
+Focus on practical problem-solving
 
 Use a whiteboard to write down problems, then checmark them as they are solved
 
@@ -40,13 +40,13 @@ Five (maybe more) pillars:
 5 - Analysis of survey data, how to deal with changes in sampling protocols
 6 - 
 
-### Tuesday, December 13 2022
+### Tuesday, December 13, 2022
 
-| Time |                                                                   |
-|  ---- |------------------------------------------------------------------|
-| 9:00 | Introductions, round table                                        |
-| 9:15 | Motivation for workshop (Nozeres and Ricard)                      |
-| 9:30 | Taxonomic names – understanding sources and authorities           |
+| Time  |                                                                  |
+|-------|------------------------------------------------------------------|
+| 9:00  | Introductions, round table                                       |
+| 9:15  | Motivation for workshop (Nozeres and Ricard)                     |
+| 9:30  | Taxonomic names – understanding sources and authorities          |
 | 10:15 | Andes and issues that arose                                      |
 | 10:30 | Break                                                            |
 | 10:45 | Non-taxonomic terms – consolidating use across regions           |
@@ -56,26 +56,27 @@ Five (maybe more) pillars:
 | 15:00 | Maintaining the Atlantic list – curation of synonyms and updates |
 | 16:30 | Overview of the day and plan for tomorrow                        |
 | 17:00 | Adjourn for the day                                              |
-| 18:00 | drinks at a brewpub followed by dinner
+| 18:00 | Drinks at a brewpub followed by dinner                           |
+
 
 #### Suggested Presentations / Sessions
 
-| Title                                                                                          | Presenter / Moderator | Duration |
-|------------------------------------------------------------------------------------------------|-----------------------|----------|
-| Presentation of regional species-related problems from the homework assignment                 | Roundtable discussion | 60 min   |
-| Another data entry system (Andes)			                                         | D. Fishman and D. Ricard | 15-30 min |
-| Taxonomic names – understanding sources and authorities                                        | C. Nozeres            | 30 min   |
-| Survey protocols			                                         | D. Ricard an R. Martin | 15-30 min |
-| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard             | 10  min  |
-| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???    | 20 min   |
-|                                                                                                |                       |          |
+| Title                                                                                          | Presenter / Moderator    | Duration     |
+|------------------------------------------------------------------------------------------------|--------------------------|--------------|
+| Presentation of regional species-related problems from the homework assignment                 | Roundtable discussion    | 60 min       |
+| Another data entry system (Andes)                                                              | D. Fishman and D. Ricard | 15-30 min    |
+| Taxonomic names – understanding sources and authorities                                        | C. Nozeres               | 30 min       |
+| Survey protocols                                                                               | D. Ricard an R. Martin   | 15-30 min    |
+| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard                | 10  min      |
+| A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???       | 20 min       |
+
 
 
 ### Wednesday, December 14 2022
-| Time |                              |
-|  ---- |------------------------------|
-| 9:00 | recap of day 1               |
-| 9:15 | Regional specific name lists |
+| Time  |                              |
+|-------|------------------------------|
+| 9:00  | Recap of day 1               |
+| 9:15  | Regional specific name lists |
 | 10:30 | Break                        |
 | 10:45 |                              |
 | 12:00 | Lunch                        |
@@ -168,22 +169,22 @@ Five (maybe more) pillars:
 
 ## List of confirmed participants
 
-| Name | Region | In person or virtual? |
-|----|------|---------|
-| Sheila Atchison | Central and Arctic | Virtual |
-| David Fishman | Gulf | In person |
-| Daniel Ricard | Gulf | In person |
-| François-Étienne Sylvain | Gulf | In person |
-| Pablo Vergara | Gulf | In person |
-| Quentin Stoyel | Maritimes -> Gulf | In person |
-| Ryan Martin | Maritimes (SABS) | In person |
-| Mike McMahon | Maritimes (BIO) | In person |
-| Javier Murillo-Perez | Maritimes (BIO) | Virtual |
-| Claude Nozères | Québec | In person |
-| Brian Boivin | Québec | In person |
-| Laurie Isabel | Québec | In person |
-| David Sean | Québec | In person |
-| Jason Ladell  | National Captial Region | Virtual |
-| Fran Mowbray  | Newfoundland and Labrador | Virtual |
-| Jennifer Lawrence | National Captial Region | Virtual |
+| Name                     | Region                    | In person or virtual?  |
+|--------------------------|---------------------------|------------------------|
+| Sheila Atchison          | Central and Arctic        | Virtual                |
+| David Fishman            | Gulf                      | In person              |
+| Daniel Ricard            | Gulf                      | In person              |
+| François-Étienne Sylvain | Gulf                      | In person              |
+| Pablo Vergara            | Gulf                      | In person              |
+| Quentin Stoyel           | Maritimes -> Gulf         | In person              |
+| Ryan Martin              | Maritimes (SABS)          | In person              |
+| Mike McMahon             | Maritimes (BIO)           | In person              |
+| Javier Murillo-Perez     | Maritimes (BIO)           | Virtual                |
+| Claude Nozères           | Québec                    | In person              |
+| Brian Boivin             | Québec                    | In person              |
+| Laurie Isabel            | Québec                    | In person              |
+| David Sean               | Québec                    | In person              |
+| Jason Ladell             | National Capital Region   | Virtual                |
+| Fran Mowbray             | Newfoundland and Labrador | Virtual                |
+| Jennifer Lawrence        | National Capital Region   | Virtual                |
 
