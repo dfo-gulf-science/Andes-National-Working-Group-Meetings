@@ -108,7 +108,7 @@ Five (maybe more) pillars:
 	- [2022 winter survey in the Gulf](http://dmapps/en/cruises/37/view/) (joint Quebec and Gulf project)
 	- Maritimes surveys, [Georges 2022](http://dmapps/en/cruises/38/view/), [Summer 2022 Teleost](http://dmapps/en/cruises/43/view/), [Summer 2022 Cabot](http://dmapps/en/cruises/42/view/) (discuss Mike's ["tweaks"](https://github.com/PopulationEcologyDivision/andesmerge/blob/main/R/tweaks.R))
 	- Gulf September survey[Cartier 2022](http://dmapps/en/cruises/48/view/), [Teleost 2022](http://dmapps/en/cruises/49/view/) (Pablo's and François-Étienne's experience)
-	- Quebec August NGSL survey: unexpected names and name types in list, not used before, not mapped to historical regional codes
+	- Quebec August NGSL survey: ANDES had unexpected names not mapped to legacy codes; name and code changes done by several users (previously was 2 people: for survey and institute); names and codes were used by several groups but managed mostly for survey (changes not done collectively);  records at general name levels (family and higher) used to be validated by a process following each survey (by examining frozen specimens and photos), now  inconsistent, at least for fishes and shrimp (captures of non-commercial invertebrates are always photographed and reviewed on survey since 2008).
 
 - How to avoid these issues in the future? Our attempt here is by sharing information, and curating lists together, documenting reasons for the terms in the lists and in the maintenance (versioning) for future changes.
 
@@ -183,7 +183,7 @@ Five (maybe more) pillars:
 | Claude Nozères           | Québec                    | In person              |
 | Brian Boivin             | Québec                    | In person              |
 | Laurie Isabel            | Québec                    | In person              |
-| David Sean               | Québec                    | In person              |
+| David Sean               | Québec                    | Virtual              |
 | Jason Ladell             | National Capital Region   | Virtual                |
 | Fran Mowbray             | Newfoundland and Labrador | Virtual                |
 | Jennifer Lawrence        | National Capital Region   | Virtual                |
