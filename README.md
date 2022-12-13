@@ -186,6 +186,8 @@ Five (maybe more) pillars:
 | Mike McMahon             | Maritimes (BIO)           | In person              |
 | Javier Murillo-Perez     | Maritimes (BIO)           | Virtual                |
 | Claude Nozères           | Québec                    | In person              |
+| Denis Bernier           | Québec                    | In person              |
+| Hugo Bourdages           | Québec                    | In person              |
 | Brian Boivin             | Québec                    | In person              |
 | Laurie Isabel            | Québec                    | In person              |
 | David Sean               | Québec                    | Virtual                |
