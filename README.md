@@ -72,8 +72,8 @@ Five (maybe more) pillars:
 | Presentation of regional species-related problems from the homework assignment                 | Roundtable discussion    | 60 min       |
 | Another data entry system (Andes)                                                              | D. Fishman and D. Ricard | 15-30 min    |
 | Taxonomic names – understanding sources and authorities                                        | C. Nozeres               | 30 min       |
-| Survey protocols                                                                               | D. Ricard an R. Martin   | 15-30 min    |
-| Tales from Front Lines of the Species Crisis: The Problems are Encountered and How to Fix Them | D. Ricard                | 10  min      |
+| Survey protocols                                                                               | D. Ricard, J. Emberley and R. Martin   | 15-30 min    |
+| Tales from Front Lines of the Species Crisis: The Problems we Encountered and How we Fixed Them | D. Ricard                | 10  min      |
 | A Debate: Should the use of regional species lists be implemented in Andes                     | D. Fishman vs. ???       | 20 min       |
 
 
@@ -181,6 +181,7 @@ Five (maybe more) pillars:
 | François-Étienne Sylvain | Gulf                      | In person              |
 | Pablo Vergara            | Gulf                      | In person              |
 | Quentin Stoyel           | Maritimes -> Gulf         | In person              |
+| Jamie Emberley              | Maritimes (SABS)          | In person              |
 | Ryan Martin              | Maritimes (SABS)          | In person              |
 | Mike McMahon             | Maritimes (BIO)           | In person              |
 | Javier Murillo-Perez     | Maritimes (BIO)           | Virtual                |
