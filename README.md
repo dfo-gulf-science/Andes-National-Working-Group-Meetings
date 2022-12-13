@@ -164,8 +164,9 @@ Five (maybe more) pillars:
 - Preparation for a follow-up workshop on survey data validation and publication (OBIS, DATRAS).
 
 - OBIS version of trawl survey data
+
 - DATRAS version of trawl survey data
-=======
+
 - Identification Guides:
   - The importance of keeping these up to date and in sync
   - Implementation in Andes
