@@ -193,4 +193,5 @@ Five (maybe more) pillars:
 | David Sean               | Québec                    | Virtual                |
 | Jason Ladell             | National Capital Region   | Virtual                |
 | Fran Mowbray             | Newfoundland and Labrador | Virtual                |
-| Jennifer Lawrence        | National Capital Region   | Virtual                |
+Irina Abushaeva | National Capital Region   | Virtual                |
+| Jennifer Lawrence        v| National Capital Region   | Virtual                |
