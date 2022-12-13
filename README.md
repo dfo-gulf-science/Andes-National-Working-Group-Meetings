@@ -14,7 +14,7 @@ Willingness to improve regional systems and to participate in the development of
 
 ## Homework before the meeting
 
-1. Complete [following template](species_summary_template.csv) and using the data from your "flagship" survey
+1. Complete the [following template](species_summary_template.csv) and using the data from your "flagship" survey
 (e.g. July for Maritimes, August for Quebec, September for Gulf). Please submit this table by Friday, December 9, 2022. 
 The csv can either be emailed to [daniel.ricard@dfo-mpo.gc.ca](mailto://daniel.ricard@dfo-mpo.gc.ca) or can be committed to this repository. The column called 
 `count_of_occurrences_in_db` should contain a total count of catches for the given species in your regional database. In other words, "considering the
@@ -28,16 +28,22 @@ the start of the meeting to help guide the discussion.
 
 Focus on practical problem-solving
 
-Use a whiteboard to write down problems, then checmark them as they are solved
+Use a whiteboard to write down problems, then checkmark them as they are solved
 
 Why are we having problems with the Andes species list? What are the stumbling blocks for each region?
 
 Five (maybe more) pillars:
+
 1 - Existing databases 
+
 2 - Andes and the Andes master database
+
 3 - Sampling protocols, how they have changed within a survey, and how they are implemented in Andes
+
 4 - From Andes to Oracle, how to get Andes survey data into existing databases
+
 5 - Analysis of survey data, how to deal with changes in sampling protocols
+
 6 - 
 
 ### Tuesday, December 13, 2022
@@ -90,82 +96,79 @@ Five (maybe more) pillars:
 
 - first starting point: use of the principal aquatic species authority, World Register of Marine Species (WoRMS) - and knowing when to 'diverge'
 
-- second starting point: our "species lists" do not all include a column called "taxonomic rank", i.e. they are one-dimensional lists
+- second starting point: our "species lists" do not all include a column called "taxonomic rank", i.e. they are one-dimensional lists with limitations when used in identifying observations at levels other than the species level
 
-- third starting point: our lists may have combined meanings under'name' column (scientific name, life stage, group) - could be separated into standardized variables (e.g., DarwinCore, DwC, in particular: verbatimIdentification, scientificName, identificationRemarks, taxonomicRemarks, lifeStage, associatedMedia, https://www.tdwg.org/)
+- third starting point: our lists may have combined meanings under the 'name' column (scientific name, life stage, group) - could be separated into standardized variables (e.g., DarwinCore, DwC, in particular: verbatimIdentification, scientificName, identificationRemarks, taxonomicRemarks, lifeStage, associatedMedia, https://www.tdwg.org/)
 
-- fourth point (optional): follow up to 3rd point--dealing with entities not covered in a taxonomic name (general level due to genetics, special populations, or known morphotypes)
+- fourth point (optional): follow up to 3rd point -- dealing with entities not covered in a taxonomic name (general level due to genetics, special populations, or known morphotypes)
 
 - fifth point (optional): labelling or attributing confidence to taxonomic names used in a survey/region/habitat (See Alaska example, https://repository.library.noaa.gov/view/noaa/31571). Thus, an 'eelpout' (usually Lycodes sp.) may be one of several species, with confidence for a capture made possible by information: survey personnel, photos, or conserved specimens. In absence of extra information, some names could be given a 'likely' label by habitat (e.g., depth stratum, survey area).
 
-- How does ANDES deal with a species list? Managing codes and names, and their display (depending on Region)
+- How does Andes deal with a species list? Managing codes and names, and their display (depending on Region)
 
-- How does ANDES deal with changes (corrections or updates) to names and records with names (before exporting to external databases)
+- How does Andes deal with changes (corrections or updates) to names and records with names (before exporting to external databases)
 
-- Dealing with "in-house" codes and how they can be used or substituted (DwC variables) in ANDES so that they are mapped in legacy databases
+- Dealing with "in-house" codes and how they can be used or substituted (DwC variables) in Andes so that they are mapped in legacy databases
 
 - Summary of issues encountered recently ([link to cruises on dmapps](http://dmapps/en/cruises/))
 	- [2022 winter survey in the Gulf](http://dmapps/en/cruises/37/view/) (joint Quebec and Gulf project)
 	- Maritimes surveys, [Georges 2022](http://dmapps/en/cruises/38/view/), [Summer 2022 Teleost](http://dmapps/en/cruises/43/view/), [Summer 2022 Cabot](http://dmapps/en/cruises/42/view/) (discuss Mike's ["tweaks"](https://github.com/PopulationEcologyDivision/andesmerge/blob/main/R/tweaks.R))
 	- Gulf September survey[Cartier 2022](http://dmapps/en/cruises/48/view/), [Teleost 2022](http://dmapps/en/cruises/49/view/) (Pablo's and François-Étienne's experience)
-	- Quebec August NGSL survey: ANDES had unexpected names not mapped to legacy codes; name and code changes done by several users (previously was 2 people: for survey and institute); names and codes were used by several groups but managed mostly for survey (changes not done collectively);  records at general name levels (family and higher) used to be validated by a process following each survey (by examining frozen specimens and photos), now  inconsistent, at least for fishes and shrimp (captures of non-commercial invertebrates are always photographed and reviewed on survey since 2008).
+	- Quebec August NGSL survey: Andes had unexpected names not mapped to legacy codes; name and code changes done by several users (previously was 2 people: for survey and institute); names and codes were used by several groups but managed mostly for survey (changes not done collectively);  records at general name levels (family and higher) used to be validated by a process following each survey (by examining frozen specimens and photos), now  inconsistent, at least for fishes and shrimp (captures of non-commercial invertebrates are always photographed and reviewed on survey since 2008).
 
 - How to avoid these issues in the future? Our attempt here is by sharing information, and curating lists together, documenting reasons for the terms in the lists and in the maintenance (versioning) for future changes.
 
-- What species codes are / have been used in the survey databases? Can get a sense by consulting OBIS Canada records.
+- What species codes are / have been used in the survey databases? Can get a sense by consulting OBIS Canada records, but the homework above should be a good starting point. Each region should attempt to achieve a similar level of confidence in establishing the way that species were used in the past, and how they will be used in the future.
 
-- Policy to identify specimens at the most precise taxonomic level possible (within the practical realities of sampling at sea). For discussion and provide advice.
+- Policy to identify specimens at the most precise taxonomic level possible (within the practical realities of sampling at sea). For discussion by the group and to provide recommendations.
 
-- In what years were species consistently identified? How to deal with these data when generating indices or producing distribution maps? For discussion and provide advice
+- In what years were species consistently identified? How to deal with these data when generating indices or producing distribution maps? For discussion by the group and to provide recommendations.
 
 - Identification guides used during surveys. Example of the recent sponges guide for the Gulf. These guides must be consistent with the species list used. However, names will change after publication. Need annual appendices to indicate changes.
 
 - Common name(s) to use, what if there are a number of options (regional vs 'official' names)? how to deal with multiple languages (display feature in Andes)? Efforts are underway in Canada (General Status of Species TermiumPlus), but are inadequate for marine species. DFO could contribute and resolve many.
 
-- demo of worms R package to extract taxonomic hierarchy from WORMS. Maintenance of hierarchy could be with periodic queries to WoRMS, not done manually.
+- Demo of *worms* R package to extract taxonomic hierarchy from WoRMS. Maintenance of hierarchy could be with periodic queries to WoRMS, not done manually.
 
 - Should Andes contain a list of _all_ species, or only those for which there are records of observation in our collective regions?
-
 
 ## Expected outcomes
 
 - Improved and shared awareness of capture terms available and intended for at-sea surveys, to assist with post-survey validation into databases
 
-- Total ANDES species list with regional subsets that satisfies all users 
+- Total Andes species list with regional subsets that satisfies all users 
 
-- Resolution of all in-house codes for biological organisms to a valid scientificnameID (AphiaID of WoRMS) in ANDES list
+- Resolution of all in-house codes for biological organisms to a valid scientificnameID (AphiaID of WoRMS) in Andes list
 
 - Suggestions to resolve in-house non-taxonomic entities in Andes for the lists across regions (may require work for future databases)
 
 - Publish checklists
-	- GitHub (raw example, https://github.com/claudenozeres/Taxon-IML )
+	- GitHub ([raw example](https://github.com/claudenozeres/Taxon-IML) )
 	- Atlantic (main)
 	- Regions (branches)
-	- optional: post to CaRMS (Canadian Register of Marine Species--Canadian Node of WoRMS, https://www.marinespecies.org/CaRMS/checklist.php)
+	- optional: post to CaRMS ([Canadian Register of Marine Species--Canadian Node of WoRMS](https://www.marinespecies.org/CaRMS/checklist.php))
 	
 
-- Submit published list to ChecklistBank (https://www.checklistbank.org/ )
+- Submit published list to [ChecklistBank](https://www.checklistbank.org/)
 
 - Incorporate list into DFO National databases (e.g., CLAMS)
 
-- Publish report or article (e.g., Checklist as a Data Paper: https://bdj.pensoft.net/)
+- Publish report or article (e.g., Checklist as a [Data Paper](https://bdj.pensoft.net/))
 
 - Give a summary presentation for each region on the use, interpretation, and management of names for surveys
 
-- Provide a Best Practices summary for survey users of ANDES (et une version en français, incluant la présentation sommaire)
+- Provide a Best Practices summary for survey users of Andes (et une version en français, incluant la présentation sommaire)
 
-- Publish summary to OBP (https://www.oceanbestpractices.org/), OTGA (https://classroom.oceanteacher.org/), ESIP (https://wiki.esipfed.org/Biological_Data_Standards_Cluster)
+- Publish summary to [OBP](https://www.oceanbestpractices.org/), [OTGA](https://classroom.oceanteacher.org/), [ESIP] (https://wiki.esipfed.org/Biological_Data_Standards_Cluster)
 
 - Preparation for a follow-up workshop on survey data validation and publication (OBIS, DATRAS).
 
-- OBIS version of the data
-- DATRAS version of the data
+- OBIS version of trawl survey data
+- DATRAS version of trawl survey data
 =======
 - Identification Guides:
   - The importance of keeping these up to date and in sync
-  - The implementation in Andes
-
-
+  - Implementation in Andes
 
 ## List of confirmed participants
 
@@ -183,8 +186,7 @@ Five (maybe more) pillars:
 | Claude Nozères           | Québec                    | In person              |
 | Brian Boivin             | Québec                    | In person              |
 | Laurie Isabel            | Québec                    | In person              |
-| David Sean               | Québec                    | Virtual              |
+| David Sean               | Québec                    | Virtual                |
 | Jason Ladell             | National Capital Region   | Virtual                |
 | Fran Mowbray             | Newfoundland and Labrador | Virtual                |
 | Jennifer Lawrence        | National Capital Region   | Virtual                |
-
