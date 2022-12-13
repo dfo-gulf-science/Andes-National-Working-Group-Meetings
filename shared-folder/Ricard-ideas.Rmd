@@ -1,0 +1,166 @@
+---
+title: "The Atlantic Hydra and how to subdue (not kill) it"
+author: "Daniel Ricard - DFO Science Gulf Region"
+date: "2022-12-12"
+output: 
+  beamer_presentation:
+    theme: "Madrid"
+    colortheme: "seahorse"
+    fonttheme: "structurebold"
+    slide_level: 2
+urlcolor: blue
+header-includes:
+- \AtBeginDocument{\title[Atlantic Hydra]{The Atlantic Hydra and how to subdue it}}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(gulf)
+```
+
+## the Atlantic Hydra
+
+
+* also known as the Species List
+
+* one can idealistically assume that an authoritative and curated list of species exists regionally
+
+* the Species List is known to duplicate and diverge each time a new usage case is formulated
+
+* because of changes in species distributions and in taxonomic research, the Species List is continually evolving
+
+## Timeline of Atlantic Hydra sightings
+
+* Appendix in [Hurlbut and Clay (1990)](https://cat.fsl-bsf.scitech.gc.ca/record=b3882665~S1) states:
+
+This file is modified from one provided in 1987 by the Marine Fish Division, St. Andrews, N.B.
+
+* R package *gulf*
+  - data frame called *species.names*, and helper functions *species.str* and *species.code*
+  - assignment of AphiaID to existing list, "beautification" of common names, ...
+
+* [Maritimes Atlas 2022](https://cat.fsl-bsf.scitech.gc.ca/record=b4106600~S1)
+
+* laboratory processing of stomach contents: the RV species list as a starting point?
+
+* Andes deployment in 2022 annual ecosystem survey following merge of species lists between Quebec and Gulf
+
+## Attempts at subduing the Hydra
+
+* an adhoc but reproducible solution : Maritimes Atlas
+  - the summary of catch observations from the summer survey is the starting point, but there are a number of *ad hoc* interventions done to [generate Table 1](https://github.com/dfo-gulf-science/Maritimes-SUMMER-Atlas/blob/main/summaries-catch-records.R)
+
+* "select few" solution : SAS to R report, use a list of species that was used previously in a SAS script
+
+* a flexible solution in the gulf package, using functions *taxonomic.group* and *years.recorded*, to obtain a defensible list of species and years when indices of abundance and biomass, and distribution maps can be generated
+
+* this workshop
+
+## WoRMS to extract taxonomic details from an AphiaID
+
+```{r}
+t.df <- worms::wormsbyid(
+  species.names[which(species.names$code==10),"aphia_id"]
+)
+print(t.df)
+```
+
+
+* knowing the taxonomic rank of an observation allows us to establish a hierarchy
+
+* the taxonomic hierarchy opens the door to grouping observations based on a lower taxonomic rank
+
+
+## 1 - all possible combinations of years and species
+
+for all possible species $s$ and year $y$, define an $s \times y$ matrix that denotes all possible combinations, and set all of them equal to zero
+
+\begin{equation}
+S_{all}
+\end{equation}
+
+
+## 2 - catch records
+
+using the database catch records, generate another $s$ and year $y$ matrix showing what species codes are used in the database catch records
+
+\begin{equation}
+S_{observed}
+\end{equation}
+
+* this matrix should have smaller dimensions than $S_{all}$
+* values of zero denote that no observations of a given species was made in a given year
+
+## 3 - time period with consistency of observations
+
+* for each species code that we see in the database catch table, note the years when it was/is expected to be recorded
+
+* examples for shrimps, sponges and small cod
+
+\begin{equation}
+S_{recorded}
+\end{equation}
+
+
+## 4 - aggregation by groups of species
+
+define an $s$ by $s$ matrix that encodes the species groupings
+
+* add a third dimension, the taxonomic rank
+
+* lower the rank of observations and add the catches for the group
+
+* this is what is done in our "SAS to R" report
+
+* example with *Liparis* species
+* example with wolffish species
+
+## summary of Gulf Region 2022 post-survey fixes required
+
+- before the survey, creation of new 5-digit codes for cases where no merge could be achieved between Quebec and Gulf
+
+* few fixes required for fish species, but it was mainly for invertebrates
+  - non-taxonomic 
+  - taxonomic precision
+  - discrepancy between ID guide and Andes
+
+
+## identification guides
+
+* what we mean we say "the invertebrate identification guide": 
+[Nozeres, C. 2015. St. Lawrence marine invertebrates posters. figshare.](https://dx.doi.org/10.6084/m9.figshare.985581.v5)
+
+Nozères, C. et Archambault, D. 2014. Portfolio pour l'identification rapide
+d'invertébrés capturés au chalut dans l'estuaire et le nord du golfe du Saint-Laurent.
+Rapp. manus. can. sci. halieut. aquat. 3033 : iv + 30 p.
+
+
+* what we mean we say ["the sponge identification guide"](https://publications.gc.ca/site/eng/9.888681/publication.html)
+
+
+## What can we learn from Heracles' experience?
+
+* Heracles was helped by his nephew Iolaus
+
+* if killing the Hydra is the goal, burn its neck using a sword and fire (this seemingly stops the regrowth of heads)
+
+* since killing the Hydra is not the goal here, let's articulate an alternative course of action
+
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{M13.1Hydra_sm.png}
+\end{center}
+
+## For discussion
+
+* what is the citable source for the list used in the Gulf and Maritimes RV surveys?
+
+* worst case scenario: each user had its own copy of a distant list and tweaks it to suit its own needs
+
+* best case scenario: 
+
+
+## Discussion
+
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{teleost-navire-stock-poissons-jacques-cartier.png}
+\end{center}
