@@ -1,0 +1,21 @@
+"0","t.df <- worms::wormsbyid(
+  species.names[which(species.names$code==10),""aphia_id""]
+)
+"
+"1","REQUESTING "
+"1",""
+"1","1"
+"1",""
+"1"," ITEMS BY ID from World Register of Marine Species  (www.marinespecies.org), "
+"1",""
+"1","12/12/2022 7:59:30 PM"
+"1",""
+"1"," (CC-BY)
+"
+"1",","
+"1",""
+"1","126436"
+"1","
+"
+"1","by id .............................................. DONE
+"
