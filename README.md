@@ -1,10 +1,12 @@
-# Atlantic National (Unofficial) Working Group Meeting 2024
+# (Unofficial) Andes Community Group Meeting 2024
 
-Repository to facilitate the planning and coordination of Andes National Workshop Meeting.
+This repository aims to facilitate the planning and coordination of a second Andes Workshop Meeting, similar to what we did back in 2022 to deal with species issues. This time, the proposed workshop aims to resolve recurring issues encountered when integrating Andes data into existing data repositories. This workshop also coincides with the publication of a Technical Report on Andes and the release of Andes Version 3. This would also be a good forum to discuss Andes governance.
+
+The last workshop was held in Moncton, NB and most participants were present in-person. Ideally we would also hold this second workshop in-person.
 
 ## Objectives
 
-- Establish a tenable and coherent strategy for reporting in Andes, ensuring stability for end users
+- Establish a tenable and coherent strategy for reporting in Andes, ensuring stability for all end users
 - Decide on a single format for an official Andes Ecosystem Survey Report
 - Understand regional post-processing workflows for Ecosystem Survey data
 - Understand regional post-processing workflows for Oceanographic data
@@ -12,7 +14,7 @@ Repository to facilitate the planning and coordination of Andes National Worksho
   - BioChem?
   - IML Workflow?
       
-- Discuss prospect of Andes National Steering Committee
+- Discuss Andes governance (for example, is there a need for an Andes National Steering Committee? other options?) 
 - Discuss upcoming changes to Port Sampling module
 
 ## Prerequisites
@@ -29,31 +31,29 @@ TBD
 
 #### Suggested Presentations / Sessions
 
-| Title                                        | Presenter / Moderator | Duration |
-|----------------------------------------------|-----------------------|----------|
-| Introductions, round table                   | Roundtable discussion | 60 min   |
-| Overview of Changes in Andes Version 3       | David Fishman         | 30 min   |
-| ?? Tour of BSIS / Mordor                     | David Fishman         | 30 min   |
-| I Pee Freely                                 | Ivana Tinkle          |          |
-| The Numbers Game                             | Cal Q. Later          |          |
-| Under the Bleachers                          | Seymour Butts         |          |
-| The Complete Proctologist's Handbook         | Ben Dover             |          |
-| Supporting Athletes                          | Jacques Strappe       |          |
-| Falling Off a Cliff                          | Eileen Dover          |          |
-|                                              |                       |          |
-| Pros and Cons of National Steering Committee | ??                    |          |
-|                                              |                       |          |
+| Title                                                        | Presenter / Moderator | Duration |
+|--------------------------------------------------------------|-----------------------|----------|
+| Introductions, round table                                   | Roundtable discussion | 60 min   |
+| Overview of Changes in Andes Version 3                       | David Fishman         | 30 min   |
+| ?? Tour of BSIS / Mordor                                     | David Fishman         | 30 min   |
+|                                                              |                       |          |
+|                                                              |                       |          |
+| Tales and fables of regional intergation of Andes data       |                       | 45 min   |
+|  - Maritimes                                                 | Mike McMahon          |          |
+|  - Gulf                                                      | Pablo Vergara         |          |
+|  - Quebec                                                    | Brian Boivin          |          |
 
 ## Topics for discussion
 
-- what is _the_ optimal format for the Official Andes Ecosystem Survey Reports (JSON vs. SQLite3 vs. NetCDF)
-- should multiple CSV reports be supported?
-- what is the best way to document report metadata?
+- What is _the_ optimal format for the Official Andes Ecosystem Survey Reports (JSON vs. SQLite3 vs. NetCDF)
+- Should multiple CSV reports be supported?
+- What is the best way to document report metadata?
 - R package for manipulating Andes official report
 
 ## Expected outcomes
 
-- volunteers for developing a toolkit for dealing with Andes ES reports
+- A clear definition of a "once and for all" Andes report for data from the Ecosystem Survey module
+- A solid plan for developing a toolkit for dealing with Andes ES reports
 
 ## List of participants
 
@@ -77,3 +77,6 @@ TBD
 | David Sean-Fortin        | Québec                    | ?????                 |            |
 | Neil Ollerhead           | Newfoundland and Labrador | ?????                 |            |
 | Dylan Kennedy            | Newfoundland and Labrador | ?????                 |            |
+| someone from NCR?        | National Capital Region   | ?????                 |            |
+| someone from Pacific?    | Pacific Region            | ?????                 |            |
+
