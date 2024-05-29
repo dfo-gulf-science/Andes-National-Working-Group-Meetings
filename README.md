@@ -38,7 +38,7 @@ TBD
 | ?? Tour of BSIS / Mordor                                     | David Fishman         | 30 min   |
 |                                                              |                       |          |
 |                                                              |                       |          |
-| Tales and fables of regional intergation of Andes data       |                       | 45 min   |
+| Tales and fables of regional integration of Andes data       |                       | 45 min   |
 |  - Maritimes                                                 | Mike McMahon          |          |
 |  - Gulf                                                      | Pablo Vergara         |          |
 |  - Quebec                                                    | Brian Boivin          |          |
