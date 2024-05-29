@@ -1,6 +1,6 @@
 # (Unofficial) Andes Community Group Meeting 2024
 
-This repository aims to facilitate the planning and coordination of a second Andes Workshop Meeting, similar to what we did back in 2022 to deal with species issues. This time, the proposed workshop aims to resolve recurring issues encountered when integrating Andes data into existing data repositories. This workshop also coincides with the publication of a Technical Report on Andes and the release of Andes Version 3. This would also be a good forum to discuss Andes governance.
+This repository aims to facilitate the planning and coordination of a second Andes Workshop Meeting, similar to what we did back in 2022 to deal with species issues ([see this branch](https://github.com/dfo-gulf-science/Andes-National-Working-Group-Meetings/tree/2022)). This time, the proposed workshop aims to resolve recurring issues encountered when integrating Andes data into existing data repositories. This workshop also coincides with the publication of a Technical Report on Andes and the release of Andes Version 3. This would also be a good forum to discuss Andes governance.
 
 The last workshop was held in Moncton, NB and most participants were present in-person. Ideally we would also hold this second workshop in-person.
 
