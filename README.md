@@ -16,6 +16,8 @@ The last workshop was held in Moncton, NB and most participants were present in-
       
 - Discuss Andes governance (for example, is there a need for an Andes National Steering Committee? other options?) 
 - Discuss upcoming changes to Port Sampling module
+- Close the loop on Species Lists
+
 
 ## Prerequisites
 
@@ -31,19 +33,20 @@ TBD
 
 #### Suggested Presentations / Sessions
 
-| Title                                                        | Presenter / Moderator | Duration |
-|--------------------------------------------------------------|-----------------------|----------|
-| Introductions, round table                                   | Roundtable discussion | 60 min   |
-| Overview of Changes in Andes Version 3                       | David Fishman         | 30 min   |
-| ?? Tour of BSIS / Mordor                                     | David Fishman         | 30 min   |
-|                                                              |                       |          |
-|                                                              |                       |          |
-| Tales and fables of regional integration of Andes data       |                       | 45 min   |
-|  - Maritimes                                                 | Mike McMahon          |          |
-|                                                              | Lindsay Beazley       |          |
-|  - Gulf                                                      | Pablo Vergara         |          |
-|  - Quebec                                                    | Brian Boivin          |          |
-|                                                              |                       |          |
+| Title                                                  | Presenter / Moderator | Duration |
+|--------------------------------------------------------|-----------------------|----------|
+| Introductions, round table                             | Roundtable discussion | 60 min   |
+| Closing the loop on Species Lists - Where we ended up? | Quentin Stoyel        | 60 min   |
+| Overview of Changes in Andes Version 3                 | David Fishman         | 30 min   |
+| ?? Tour of BSIS / Mordor                               | David Fishman         | 30 min   |
+|                                                        |                       |          |
+|                                                        |                       |          |
+| Tales and fables of regional integration of Andes data |                       | 45 min   |
+| - Maritimes                                            | Mike McMahon          |          |
+|                                                        | Lindsay Beazley       |          |
+| - Gulf                                                 | Pablo Vergara         |          |
+| - Quebec                                               | Brian Boivin          |          |
+|                                                        |                       |          |
 
 ## Topics for discussion
 
@@ -51,6 +54,7 @@ TBD
 - Should multiple CSV reports be supported? Is there an alternative to one report type per client/usage case?
 - What is the best way to document report metadata?
 - R package for manipulating Andes official report
+- Where did we land on species list? Quentin can talk about vision for CARL
 
 ## Expected outcomes
 
