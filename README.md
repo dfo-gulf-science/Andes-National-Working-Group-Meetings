@@ -40,13 +40,15 @@ TBD
 |                                                              |                       |          |
 | Tales and fables of regional integration of Andes data       |                       | 45 min   |
 |  - Maritimes                                                 | Mike McMahon          |          |
+|                                                              | Lindsay Beazley       |          |
 |  - Gulf                                                      | Pablo Vergara         |          |
 |  - Quebec                                                    | Brian Boivin          |          |
+|                                                              |                       |          |
 
 ## Topics for discussion
 
 - What is _the_ optimal format for the Official Andes Ecosystem Survey Reports (JSON vs. SQLite3 vs. NetCDF)
-- Should multiple CSV reports be supported?
+- Should multiple CSV reports be supported? Is there an alternative to one report type per client/usage case?
 - What is the best way to document report metadata?
 - R package for manipulating Andes official report
 
@@ -71,6 +73,7 @@ TBD
 | Jamie Emberley           | Maritimes (SABS)          | ?????                 |            |
 | Ryan Martin              | Maritimes (SABS)          | ?????                 |            |
 | Mike McMahon             | Maritimes (BIO)           | ?????                 |            |
+| Lindsay Beazley          | Maritimes (BIO)           | ?????                 |            |
 | Brian Boivin             | Québec                    | ?????                 |            |
 | Denis Bernier            | Québec                    | ?????                 |            |
 | Hugo Bourdages           | Québec                    | ?????                 |            |
