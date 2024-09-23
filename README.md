@@ -33,20 +33,20 @@ TBD
 
 #### Suggested Presentations / Sessions
 
-| Title                                                  | Presenter / Moderator | Duration |
-|--------------------------------------------------------|-----------------------|----------|
-| Introductions, round table                             | Roundtable discussion | 60 min   |
-| Closing the loop on Species Lists - Where we ended up? | Quentin Stoyel        | 60 min   |
-| Overview of Changes in Andes Version 3                 | David Fishman         | 30 min   |
-| ?? Tour of BSIS / Mordor                               | David Fishman         | 30 min   |
-|                                                        |                       |          |
-|                                                        |                       |          |
-| Tales and fables of regional integration of Andes data |                       | 45 min   |
-| - Maritimes                                            | Mike McMahon          |          |
-|                                                        | Lindsay Beazley       |          |
-| - Gulf                                                 | Pablo Vergara         |          |
-| - Quebec                                               | Brian Boivin          |          |
-|                                                        |                       |          |
+| Title                                                                   | Presenter / Moderator | Duration |
+|-------------------------------------------------------------------------|-----------------------|----------|
+| Introductions, round table                                              | Roundtable discussion | 60 min   |
+| Closing the loop on Species Lists - Where we ended up?                  | Quentin Stoyel        | 60 min   |
+| Overview of Changes in Andes Version 3                                  | David Fishman         | 30 min   |
+| ?? Tour of BSIS / Mordor                                                | David Fishman         | 30 min   |
+| Towards a unified data pool: Breaking data isolation with Andes and OBIS| David Sean            | 45 min   |
+|                                                                         |                       |          |
+| Tales and fables of regional integration of Andes data                  |                       | 45 min   |
+| - Maritimes                                                             | Mike McMahon          |          |
+|                                                                         | Lindsay Beazley       |          |
+| - Gulf                                                                  | Pablo Vergara         |          |
+| - Quebec                                                                | Brian Boivin          |          |
+|                                                                         |                       |          |
 
 ## Topics for discussion
 
