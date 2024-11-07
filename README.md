@@ -60,6 +60,7 @@ Hybrid 2-day workshop consisting of presentations from participants, discussions
 | Overview of Changes in Andes Version 3                                  | David Fishman         | 30 min   |
 | Tour of the planned database solution for the Gulf Region                                                | David Fishman         | 30 min   |
 | Towards a unified data pool: Breaking data isolation with Andes and OBIS| David Sean            | 45 min   |
+| Bringing Andes images to biigle for post-mission annotation and validation| David Sean            | 45 min   |
 |                                                                         |                       |          |
 | Tales and fables of regional integration of Andes data                  |                       | 45 min   |
 | - Maritimes                                                             | Mike McMahon (ecosystem surveys)          |          |
