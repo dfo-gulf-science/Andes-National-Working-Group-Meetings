@@ -5,17 +5,24 @@ This repository aims to facilitate the planning and coordination of a second And
 The last workshop was held in Moncton, NB and most participants were present in-person. Ideally we would also hold this second workshop in-person.
 
 ## Background
-Another data entry system (Andes) is a web-based computer application that supports data entry during field activities such as scientific ecosystem surveys and port sampling. The application was initially developed by DFO Gulf Region and has been used during the annual southern Gulf of St. Lawrence ecosystem survey since 2020. More information about the application can be found in a DFO technical report published in 2024 and available from the DFO library.
+Another data entry system (Andes) is a web-based computer application that supports data entry during field activities such as scientific ecosystem surveys and port sampling. The application was initially developed by DFO Gulf Region and has been used during the annual southern Gulf of St. Lawrence ecosystem survey since 2020. More information about the application can be found in a [DFO technical report](https://publications.gc.ca/site/eng/9.939271/publication.html) published in 2024 and available from the DFO library. 
 
 ## Objectives
-- Establish a tenable and coherent strategy for reporting in Andes, ensuring stability for all end users
-- Decide on a single format for an official Andes Ecosystem Survey Report
-- Understand regional post-processing workflows for Ecosystem Survey data (into Oracle mostly)
-- Understand regional post-processing workflows for Oceanographic data (DART, BioChem, IML Workflow)
-- Discuss Andes governance (for example, is there a need for an Andes National Steering Committee? other options?) 
-- Close the loop on Species Lists
+- Close the loop on 2022 Species Lists discussion
+  - Regionalisation followed by de-regionalization
+  - Birth of CARL
+- Understand regional post-processing workflows:
+  - What physical infrastructure is used? 
+  - What do regions use old Andes instances for?
+  - Where does Ecosystem Survey data go? (into Oracle mostly)
+  - Where does Oceanographic data go (DART, BioChem, IML Workflow)?
+  - What happens to all other data (e.g., ScanMar, sampling protocols, species / catch information)?
+- Establish a tenable and coherent strategy for reporting in Andes;
+  - Ensuring stability for all end users (e.g., unit testing)
+  - Decide on a single format for an official Andes Ecosystem Survey Report
+  - Opportunities for development of downstream infrastructure for accessing data (e.g., R packages, Python packages, scripts from Andes to Oracle, etc.)   
+- Initiate discussions regarding Andes governance. Is there a need for an Andes National Steering Committee? 
 
-### THIS MEETING WILL HAVE AN EMPHASIS ON POST-PRODUCTION
 - Reporting
 - Species lists
 - Post-prod infrastucture
