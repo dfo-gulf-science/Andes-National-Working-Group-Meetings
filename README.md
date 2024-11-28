@@ -11,9 +11,11 @@ Another data entry system (Andes) is a web-based computer application that suppo
 ## Proposed Format, Date and Location
 
 Hybrid **2-day workshop** consisting of presentations from participants and discussions on data integration.
+
 **Physical attendance is highly preferred** however a virtual option will remain available.   
 
 Potential location will be at the Gulf Fisheries Centre (GFC) in Moncton, but will depend on travel constraint and considerations from the different regions (i.e., who gets approval and has travel funds available).
+
 **Tentative dates are January 28-29, 2025.** 
 
 
