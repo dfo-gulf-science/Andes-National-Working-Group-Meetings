@@ -5,9 +5,20 @@ This repository aims to facilitate the planning and coordination of a second And
 The last workshop was held in Moncton, NB and most participants were present in-person. Ideally we would also hold this second workshop in-person.
 
 ## Background
+
 Another data entry system (Andes) is a web-based computer application that supports data entry during field activities such as scientific ecosystem surveys and port sampling. The application was initially developed by DFO Gulf Region and has been used during the annual southern Gulf of St. Lawrence ecosystem survey since 2020. More information about the application can be found in a [DFO technical report](https://publications.gc.ca/site/eng/9.939271/publication.html) published in 2024 and available from the DFO library. 
 
+## Proposed Format, Date and Location
+
+Hybrid **2-day workshop** consisting of presentations from participants and discussions on data integration.
+**Physical attendance is highly preferred** however a virtual option will remain available.   
+
+Potential location will be at the Gulf Fisheries Centre (GFC) in Moncton, but will depend on travel constraint and considerations from the different regions (i.e., who gets approval and has travel funds available).
+**Tentative dates are January 28-29, 2025.** 
+
+
 ## Objectives
+
 - Close the loop on 2022 Species Lists discussion
   - Regionalisation followed by de-regionalization
   - Birth of CARL
@@ -24,58 +35,7 @@ Another data entry system (Andes) is a web-based computer application that suppo
 - Initiate discussions regarding Andes governance. Is there a need for an Andes National Steering Committee? 
 
 
-## Prerequisites / Homework
-
-- Willingness to improve regional systems and to participate in the development of Andes.
-- Willingness to share regional experience in data management and analyses.
-- Readiness to discussion your experience with data integration since using Andes in your region.
-
-## Proposed format
-Hybrid 2-day workshop consisting of presentations from participants and discussions on data integration.
-
-
-### Proposed Topics and Presentations
-
-#### Topics:
-
-- What is _the_ optimal format for the Official Andes Ecosystem Survey Reports (JSON vs. SQLite3 vs. NetCDF)
-- Should multiple CSV reports be supported? Is there an alternative to one report type per client/usage case?
-- What is the best way to document each report's metadata?
-- R package for manipulating Andes official report
-- New usage cases of Andes
-
-#### Presentations:
-
-| Title                                                                      | Presenter       | Duration |
-|----------------------------------------------------------------------------|-----------------|----------|
-| Closing the loop on Species Lists - Where we ended up?                     | Quentin Stoyel  | 60 min   |
-| Gulf Region pre- and post-production infrastructure?                       | Quentin Stoyel  | 60 min   |
-| Overview of changes in Andes version 3                                     | David Fishman   | 30 min   |
-| Tour of the planned database solution for the Gulf Region (BSIS)           | David Fishman   | 30 min   |
-| Towards a unified data pool: Breaking data isolation with Andes and OBIS   | David Sean      | 45 min   |
-| Bringing Andes images to biigle for post-mission annotation and validation | David Sean      | 30  min  |
-| Upcoming changes to Port Sampling module                                   | Samuel Rail     | 15 min   |
-| What happens to Oceanographic data (past and future)                       | Lindsay Beazley | 45 min   |
-
-#### Round table discussions:
-
-| Title                                                                   | Moderator      | Key participants                                                                                                                                   | Duration |
-|-------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Tales and fables of regional integration of Andes data                  | TBD            | Mike McMahon (ecosystem surveys), <br/>Lindsay Beazley (oceanography)<br/> Pablo Vergara (ecosystem surveys)<br/> Brian Boivin (ecosystem surveys) | 90 min   |
-| Use cases for post-production Andes instances                           | TBD            | All                                                                                                                                               | 60 min   |
-| Andes reporting                                                         | David Fishman  | All                                                                                                                                               | 60 min   |
-| Survey images and media files                                           | TBD            | All                                                                                                                                               | 45 min   |
-| Shared aspirations, infrastructure gaps for data access and integration | TBD            | All                                                                                                                                               | 60 min   |
-| Andes governance                                                        | Jenni McDermid | All                                                                                                                                               | 45 min   |
-
-
-
-
-
-
-
-
-### Proposed Agenda
+## Proposed Agenda
 
 | Day 1                             | Duration | Time |
 |-----------------------------------|----------|----------|
@@ -101,6 +61,42 @@ Hybrid 2-day workshop consisting of presentations from participants and discussi
 | Health break                 | 15 min | 1430-1445   |
 | Presentations and dicussions |60 min | 1445-1545   |
 | Concluding remarks          |15 min | 1615-1630   |
+
+
+## Proposed Topics and Presentations
+
+### Topics:
+
+- What is _the_ optimal format for the Official Andes Ecosystem Survey Reports (JSON vs. SQLite3 vs. NetCDF)
+- Should multiple CSV reports be supported? Is there an alternative to one report type per client/usage case?
+- What is the best way to document each report's metadata?
+- R package for manipulating Andes official report
+- New usage cases of Andes
+
+### Presentations:
+
+| Title                                                                      | Presenter       | Duration |
+|----------------------------------------------------------------------------|-----------------|----------|
+| Closing the loop on Species Lists - Where we ended up?                     | Quentin Stoyel  | 60 min   |
+| Gulf Region pre- and post-production infrastructure?                       | Quentin Stoyel  | 60 min   |
+| Overview of changes in Andes version 3                                     | David Fishman   | 30 min   |
+| Tour of the planned database solution for the Gulf Region (BSIS)           | David Fishman   | 30 min   |
+| Towards a unified data pool: Breaking data isolation with Andes and OBIS   | David Sean      | 45 min   |
+| Bringing Andes images to biigle for post-mission annotation and validation | David Sean      | 30  min  |
+| Upcoming changes to Port Sampling module                                   | Samuel Rail     | 15 min   |
+| What happens to Oceanographic data (past and future)                       | Lindsay Beazley | 45 min   |
+
+### Round table discussions:
+
+| Title                                                                   | Moderator      | Key participants                                                                                                                                   | Duration |
+|-------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Tales and fables of regional integration of Andes data                  | TBD            | Mike McMahon (ecosystem surveys), <br/>Lindsay Beazley (oceanography)<br/> Pablo Vergara (ecosystem surveys)<br/> Brian Boivin (ecosystem surveys) | 90 min   |
+| Use cases for post-production Andes instances                           | TBD            | All                                                                                                                                               | 60 min   |
+| Andes reporting                                                         | David Fishman  | All                                                                                                                                               | 60 min   |
+| Survey images and media files                                           | TBD            | All                                                                                                                                               | 45 min   |
+| Shared aspirations, infrastructure gaps for data access and integration | TBD            | All                                                                                                                                               | 60 min   |
+| Andes governance                                                        | Jenni McDermid | All                                                                                                                                               | 45 min   |
+
 
 ## Expected outcomes
 - A clear definition of a "once and for all" Andes report for data from the Ecosystem Survey module
@@ -135,6 +131,9 @@ Hybrid 2-day workshop consisting of presentations from participants and discussi
 | Pacific TBD              | Pacific Region            | tbd                 |            |
 
 
+## Prerequisites / Homework
 
-scratch:
- and development of a toolkit usable by different regions
+- Willingness to improve regional systems and to participate in the development of Andes.
+- Willingness to share regional experience in data management and analyses.
+- Readiness to discussion your experience with data integration since using Andes in your region.
+
