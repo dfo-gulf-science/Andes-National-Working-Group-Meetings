@@ -84,7 +84,7 @@ Potential location will be at the Gulf Fisheries Centre (GFC) in Moncton, but wi
 | Overview of changes in Andes version 3                                     | David Fishman   | 30 min   |
 | Tour of the planned database solution for the Gulf Region (BSIS)           | David Fishman   | 30 min   |
 | Towards a unified data pool: Breaking data isolation with Andes and OBIS   | David Sean      | 45 min   |
-| Bringing Andes images to biigle for post-mission annotation and validation | David Sean      | 30  min  |
+| Bringing Andes images to biigle for post-mission annotation and validation | David Sean      | 45 min   |
 | Upcoming changes to Port Sampling module                                   | Samuel Rail     | 15 min   |
 | What happens to Oceanographic data (past and future)                       | Lindsay Beazley | 45 min   |
 
@@ -123,7 +123,6 @@ Potential location will be at the Gulf Fisheries Centre (GFC) in Moncton, but wi
 | Ryan Martin              | Maritimes (SABS)          | tbd                 |            |
 | Mike McMahon             | Maritimes (BIO)           | tbd                 |            |
 | Brian Boivin             | Québec                    | tbd                 |            |
-| Denis Bernier            | Québec                    | tbd                 |            |
 | Hugo Bourdages           | Québec                    | tbd                 |            |
 | Samuel Rail              | Québec                    | tbd                 |            |
 | David Sean-Fortin        | Québec                    | tbd                 |            |
