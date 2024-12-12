@@ -16,7 +16,7 @@ Hybrid **2-day workshop** consisting of presentations from participants and disc
 
 Potential location will be at the Gulf Fisheries Centre (GFC) in Moncton, but will depend on travel constraint and considerations from the different regions (i.e., who gets approval and has travel funds available).
 
-**Tentative dates are January 28-29, 2025.** 
+**Tentative dates are TBD.** 
 
 
 ## Objectives
