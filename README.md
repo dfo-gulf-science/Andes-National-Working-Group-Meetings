@@ -17,7 +17,9 @@ Feb 5, 2026 @ 14-15h AST (1 hour)
 
 DRAFT
 
+- sketch beta mode
 - Catch level collection / prompts
 - Comprehensive report
 - Oceanography stuff
 - Removal of sampling protocol
+- subsamples and subsampler
