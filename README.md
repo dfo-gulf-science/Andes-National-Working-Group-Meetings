@@ -11,6 +11,7 @@ Feb 5, 2026 @ 14-15h AST (1 hour)
 ### Objective:
 
 - To provide community with an overview of the new features released since last year (see list below)
+- Quick review of opened tickets on Github
 - Understand client priorities for upcoming field season (2026)
 
 ### Features Show-and-Tell:
