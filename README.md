@@ -2,7 +2,7 @@
 
 ### Meeting Date & Time:
 
-Feb 5, 2026 @ 14-15h AST (1 hour)
+Feb 9, 2026 @ 10-11h AST (1 hour)
 
 ### Link to Meeting:
 
