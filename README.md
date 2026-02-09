@@ -13,16 +13,5 @@ Feb 9, 2026 @ 10-11h AST (1 hour)
 - To provide community with an overview of the new features released since last year (see list below)
 - Quick review of opened tickets on Github
 - Understand client priorities for upcoming field season (2026)
+- Quick update about collaboration with CCG E&I group
 
-### Features Show-and-Tell:
-
-DRAFT
-
-- sketch beta mode
-- snooze buttons
-- new collection quota type (features)
-- Catch level collection / prompts
-- Comprehensive report
-- Oceanography stuff
-- Removal of sampling protocol
-- subsamples and subsampler
