@@ -37,11 +37,16 @@
 - sex-specific categories for observations
 - can only delete the most recent set
 - checking for mounting / unmounting of NAS
+- ECDIS exports for bridge:
+  - `route` -> WARNING: the route assumes straight lines in between stations therefore it is important that the bridge personelle verify that the travel between stations is in fact navigable.
+    - WARNING: the route assumes straight lines in between stations therefore it is important that the bridge personelle verify that the travel between stations is in fact navigable.
+  - `draw object` -> An export of all stations to an ECDIS compatible file format.
+
 
 ### scanmar
 - support for 365
-- tow validation console is customizable and operational
-
+- tow validation console is customizable and operational; mission level settings
+- TOGA report (even if your mission specific settings are different)
 
 ____________________
 
