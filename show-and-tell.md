@@ -2,39 +2,38 @@
 
 ### Sampling requirements, Collections: 
   
-- Removal of sampling protocol
+- [ ] Removal of sampling protocol
   - now found in the mission settings
-- Collection snooze button
-- Collections can now print labels upon completion
-- Batch collections now available
-- Super-collections
-- new quota types: `per feature` and `per length bin, per feature`
+- [ ] Collections can now print labels upon completion
+- [ ] Batch collections now available
+- [ ] Super-collections
+- [ ] new quota types: `per feature` and `per length bin, per feature`
   - get feature specific reporting in collection status dashboard
-- size/sample classes now structured differently
+- [ ] size/sample classes now structured differently
   - defaults are set at the mission level; catch-specific ones set in the sampling requirements- 
 
 ### Prompts
-- new layer in data entry - replaces prompting options in sampling requirements
-- Informational - no action required
-- can be tracked, just like specimen collections
+- [ ] new layer in data entry - replaces prompting options in sampling requirements
+- [ ] Informational - no action required
+- [ ] can be tracked, just like specimen collections
 
 ### Reporting
-- Comprehensive report (not new)
-- Should be releasing v2 this year but v1 will still be supported (indefinitely!!)
+- [ ] Comprehensive report (not new)
+  - Should be releasing v2 this year but v1 will still be supported (indefinitely!!)
 
 ### Data entry
-- warnings for premature data entry
-- extrapolation of unsampled counts
-- subsampler improvements
-- sampled by field
-- better asynchronous data entry (maybe faster?)
+- [ ] warnings for premature data entry
+- [ ] extrapolation of unsampled counts
+- [ ] subsampler improvements
+- [ ] sampled by field
+- [ ] better asynchronous data entry (maybe faster?)
   - see bristleworms (3100) as example
   - attempts to add multiple observations, if possible
-- muting observations
+- [ ] Collection snooze button
 
 ### Miscellaneous
-- label customization
-- sex-specific categories for observations
+- [ ] label customization
+- [ ] sex-specific categories for observations
 - can only delete the most recent set
 - checking for mounting / unmounting of NAS
 - ECDIS exports for bridge:
